@@ -1,0 +1,1242 @@
+{
+ "meta": {
+  "name": "Mines, quarries and oil fields in India (Wikidata)",
+  "source_org": "Wikidata (community, CC0)",
+  "url": "https://query.wikidata.org/sparql (instances of mine Q820477, quarry Q188040, oil field Q211748, coal deposit Q12091026, natural gas field Q1349255, coal mine Q959309; country India; with coordinates)",
+  "landing_url": "https://www.wikidata.org/",
+  "published": "2026-11-26",
+  "reference_year": "2026 (snapshot)",
+  "resolution": "point",
+  "license": "CC0",
+  "update_frequency": "continuous",
+  "kind": "curated",
+  "limitations": "Sparse and uneven. Only about 135 items have coordinates. Wikidata has no commodity field for most of them. Many items have no name (name is null). It is not a complete list of Indian mines. The Global Energy Monitor tracker was not used (needs request form).",
+  "method": "SPARQL query with P31 in the type list and P17=India and P625 present. State comes from point-in-polygon on the project state boundary file (raw/boundaries/states_Admin2.shp), not from Wikidata.",
+  "id": "minerals_points",
+  "accessed": "2026-11-26"
+ },
+ "fields": {
+  "category": {
+   "name": "Wikidata type",
+   "unit": "",
+   "type": "text",
+   "description": "mine, quarry, oil field or coal deposit",
+   "higher_is": "neutral"
+  },
+  "wikidata_state": {
+   "name": "State label in Wikidata",
+   "unit": "",
+   "type": "text",
+   "description": "P131 label where present",
+   "higher_is": "neutral"
+  }
+ },
+ "rows": [
+  {
+   "key": "Q26798592",
+   "name": "Jayant",
+   "lat": 24.1583,
+   "lon": 82.6546,
+   "category": "mine",
+   "state": "MP",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26798593",
+   "name": null,
+   "lat": 24.1483,
+   "lon": 82.7476,
+   "category": "mine",
+   "state": "UP",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26798594",
+   "name": "Nigahi",
+   "lat": 24.1405,
+   "lon": 82.619,
+   "category": "mine",
+   "state": "MP",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26798595",
+   "name": "Dudhichua",
+   "lat": 24.16821,
+   "lon": 82.67281,
+   "category": "mine",
+   "state": "MP",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26798596",
+   "name": "Sasti",
+   "lat": 19.81139,
+   "lon": 79.31972,
+   "category": "mine",
+   "state": "MH",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26798597",
+   "name": "Rajrappa",
+   "lat": 23.63194,
+   "lon": 85.71111,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26800334",
+   "name": "Kankar Pit",
+   "lat": 30.274166666,
+   "lon": 75.956666666,
+   "category": "mine",
+   "state": "PB",
+   "wikidata_state": "Punjab"
+  },
+  {
+   "key": "Q26802079",
+   "name": "Bhustoli",
+   "lat": 30.671388888,
+   "lon": 79.979444444,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802080",
+   "name": "Gaul Kharak",
+   "lat": 30.664166666,
+   "lon": 79.981111111,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802083",
+   "name": null,
+   "lat": 30.743888888,
+   "lon": 79.901388888,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802085",
+   "name": null,
+   "lat": 30.720555555,
+   "lon": 79.904166666,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802086",
+   "name": "Barmatiya",
+   "lat": 30.710555555,
+   "lon": 79.965833333,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802088",
+   "name": null,
+   "lat": 30.715,
+   "lon": 79.985833333,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802090",
+   "name": null,
+   "lat": 30.692222222,
+   "lon": 79.948611111,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802091",
+   "name": null,
+   "lat": 30.683055555,
+   "lon": 79.975,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802092",
+   "name": "Lampak Kharak",
+   "lat": 30.664444444,
+   "lon": 79.974444444,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802101",
+   "name": null,
+   "lat": 30.578333333,
+   "lon": 79.927777777,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802108",
+   "name": "Bagsora Kharak",
+   "lat": 30.524166666,
+   "lon": 79.768611111,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802111",
+   "name": null,
+   "lat": 30.538888888,
+   "lon": 79.825,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802112",
+   "name": null,
+   "lat": 30.543055555,
+   "lon": 79.808333333,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802114",
+   "name": null,
+   "lat": 30.552777777,
+   "lon": 79.834166666,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802115",
+   "name": null,
+   "lat": 30.558333333,
+   "lon": 79.836944444,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802116",
+   "name": null,
+   "lat": 30.565555555,
+   "lon": 79.768055555,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802120",
+   "name": null,
+   "lat": 30.624444444,
+   "lon": 79.824166666,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802125",
+   "name": null,
+   "lat": 30.638055555,
+   "lon": 79.784722222,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802126",
+   "name": null,
+   "lat": 30.65,
+   "lon": 79.771111111,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802130",
+   "name": "Tasgar",
+   "lat": 30.696944444,
+   "lon": 79.766388888,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802132",
+   "name": null,
+   "lat": 30.702222222,
+   "lon": 79.804444444,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802133",
+   "name": "Nilgetha",
+   "lat": 30.703888888,
+   "lon": 79.779722222,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802135",
+   "name": null,
+   "lat": 30.720277777,
+   "lon": 79.7975,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802139",
+   "name": "Tartoi",
+   "lat": 30.728888888,
+   "lon": 79.775277777,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802141",
+   "name": null,
+   "lat": 30.428333333,
+   "lon": 79.711111111,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802143",
+   "name": "Chamba Kharak",
+   "lat": 30.408611111,
+   "lon": 79.732777777,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802159",
+   "name": "Semortoli",
+   "lat": 30.681111111,
+   "lon": 79.643333333,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802161",
+   "name": null,
+   "lat": 30.6725,
+   "lon": 79.661666666,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802162",
+   "name": "Karmaila Kharak",
+   "lat": 30.675277777,
+   "lon": 79.623611111,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802163",
+   "name": null,
+   "lat": 30.669166666,
+   "lon": 79.671666666,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802166",
+   "name": null,
+   "lat": 30.655555555,
+   "lon": 79.68,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802167",
+   "name": null,
+   "lat": 30.626388888,
+   "lon": 79.665,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802172",
+   "name": "Semar Kharak",
+   "lat": 30.605833333,
+   "lon": 79.648888888,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802174",
+   "name": "Farsan Baink",
+   "lat": 30.596666666,
+   "lon": 79.637222222,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802175",
+   "name": "Galani Udiar",
+   "lat": 30.595833333,
+   "lon": 79.635833333,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802176",
+   "name": "Gaunchha",
+   "lat": 30.592222222,
+   "lon": 79.629444444,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802177",
+   "name": "Jawri Kharak",
+   "lat": 30.584722222,
+   "lon": 79.624166666,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802178",
+   "name": "Maiman",
+   "lat": 30.565,
+   "lon": 79.663333333,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802185",
+   "name": null,
+   "lat": 30.675,
+   "lon": 79.618888888,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802186",
+   "name": null,
+   "lat": 30.676388888,
+   "lon": 79.610277777,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802193",
+   "name": "Tipra Kharak",
+   "lat": 30.7325,
+   "lon": 79.626388888,
+   "category": "mine",
+   "state": "UT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26802556",
+   "name": "Khetri Copper Project",
+   "lat": 28.078611111,
+   "lon": 75.814444444,
+   "category": "mine",
+   "state": "RJ",
+   "wikidata_state": "Rajasthan"
+  },
+  {
+   "key": "Q26805611",
+   "name": "Rohna Coal Mine",
+   "lat": 21.307777777,
+   "lon": 79.095555555,
+   "category": "mine",
+   "state": "MH",
+   "wikidata_state": "Maharashtra"
+  },
+  {
+   "key": "Q26805612",
+   "name": "Pipla Coal Mine",
+   "lat": 21.314444444,
+   "lon": 79.083333333,
+   "category": "mine",
+   "state": "MH",
+   "wikidata_state": "Maharashtra"
+  },
+  {
+   "key": "Q26805614",
+   "name": null,
+   "lat": 21.296111111,
+   "lon": 79.126944444,
+   "category": "mine",
+   "state": "MH",
+   "wikidata_state": "Maharashtra"
+  },
+  {
+   "key": "Q26805662",
+   "name": "Teja and Chheti",
+   "lat": 27.708055555,
+   "lon": 79.127222222,
+   "category": "mine",
+   "state": "UP",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26818711",
+   "name": "Kankani Mine Shaft",
+   "lat": 21.804722222,
+   "lon": 83.926944444,
+   "category": "mine",
+   "state": "OR",
+   "wikidata_state": "Odisha"
+  },
+  {
+   "key": "Q4761912",
+   "name": "Angadipuram Laterite",
+   "lat": 10.9925,
+   "lon": 76.2042,
+   "category": "quarry",
+   "state": "KL",
+   "wikidata_state": "Malappuram district"
+  },
+  {
+   "key": "Q1761937",
+   "name": "Bombay High",
+   "lat": 19.41667,
+   "lon": 71.33333,
+   "category": "oil field",
+   "state": null,
+   "wikidata_state": "Gulf of Khambhat"
+  },
+  {
+   "key": "Q26810626",
+   "name": null,
+   "lat": 20.085555555,
+   "lon": 79.033611111,
+   "category": "quarry",
+   "state": "MH",
+   "wikidata_state": "Maharashtra"
+  },
+  {
+   "key": "Q26812339",
+   "name": "Kankar Quarry",
+   "lat": 26.863333333,
+   "lon": 83.732777777,
+   "category": "quarry",
+   "state": "UP",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q26817152",
+   "name": "Kharli Slate Quarry",
+   "lat": 32.178055555,
+   "lon": 76.6975,
+   "category": "quarry",
+   "state": "HP",
+   "wikidata_state": "Himachal Pradesh"
+  },
+  {
+   "key": "Q31857669",
+   "name": "Dhaudānr Quarry",
+   "lat": 24.906944444,
+   "lon": 84.067222222,
+   "category": "quarry",
+   "state": "BR",
+   "wikidata_state": "Bihar"
+  },
+  {
+   "key": "Q31859887",
+   "name": null,
+   "lat": 24.553333333,
+   "lon": 87.819166666,
+   "category": "quarry",
+   "state": "WB",
+   "wikidata_state": "West Bengal"
+  },
+  {
+   "key": "Q31859888",
+   "name": null,
+   "lat": 24.590555555,
+   "lon": 87.838333333,
+   "category": "quarry",
+   "state": "JH",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q6748647",
+   "name": "Mangala Area",
+   "lat": 25.9586495,
+   "lon": 71.5095209,
+   "category": "oil field",
+   "state": "RJ",
+   "wikidata_state": "Rajasthan"
+  },
+  {
+   "key": "Q7131358",
+   "name": "Panna-Mukta oilfield",
+   "lat": 19.362976,
+   "lon": 71.941223,
+   "category": "oil field",
+   "state": null,
+   "wikidata_state": "Gulf of Khambhat"
+  },
+  {
+   "key": "Q24950800",
+   "name": "Ravva oil field",
+   "lat": 16.487933,
+   "lon": 82.089667,
+   "category": "oil field",
+   "state": "AP",
+   "wikidata_state": "Andhra Pradesh"
+  },
+  {
+   "key": "Q26792274",
+   "name": "Bassein Oilfield Development Area",
+   "lat": 19.333333333,
+   "lon": 72.033333333,
+   "category": "oil field",
+   "state": null,
+   "wikidata_state": "India"
+  },
+  {
+   "key": "Q26792276",
+   "name": "Heera Ratna Oilfield Development Area",
+   "lat": 18.466666666,
+   "lon": 72.266666666,
+   "category": "oil field",
+   "state": null,
+   "wikidata_state": "India"
+  },
+  {
+   "key": "Q102256176",
+   "name": "Ashoknagar oil field",
+   "lat": 22.83589,
+   "lon": 88.59694,
+   "category": "oil field",
+   "state": "WB",
+   "wikidata_state": "West Bengal"
+  },
+  {
+   "key": "Q1387133",
+   "name": "Donimalai Township",
+   "lat": 15.0589,
+   "lon": 76.5937,
+   "category": "mine",
+   "state": "KA",
+   "wikidata_state": "Ballari district"
+  },
+  {
+   "key": "Q3595249",
+   "name": "Tummalapalle uranium mine",
+   "lat": 14.41,
+   "lon": 78.23,
+   "category": "mine",
+   "state": "AP",
+   "wikidata_state": "Vemula mandal"
+  },
+  {
+   "key": "Q15229130",
+   "name": "Jaduguda Uranium Mine",
+   "lat": 22.39,
+   "lon": 86.22,
+   "category": "mine",
+   "state": "OR",
+   "wikidata_state": "East Singhbhum district"
+  },
+  {
+   "key": "Q16509282",
+   "name": "Hingula Mine",
+   "lat": 20.9654,
+   "lon": 85.0279,
+   "category": "mine",
+   "state": "OR",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q16956554",
+   "name": "Rajmahal coalfield",
+   "lat": 25.04305556,
+   "lon": 87.34416667,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": "Jharkhand"
+  },
+  {
+   "key": "Q6427412",
+   "name": "Kollur Mine",
+   "lat": 16.70289167,
+   "lon": 80.03145278,
+   "category": "mine",
+   "state": "AP",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q6741275",
+   "name": "Malanjkhand",
+   "lat": 22.00138889,
+   "lon": 80.70916667,
+   "category": "mine",
+   "state": "MP",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q6785911",
+   "name": "Mata no Madh",
+   "lat": 23.542333333,
+   "lon": 68.949755555,
+   "category": "mine",
+   "state": "GJ",
+   "wikidata_state": "Lakhpat Taluka"
+  },
+  {
+   "key": "Q7286648",
+   "name": "Rakha Mines",
+   "lat": 22.63333333,
+   "lon": 86.36666667,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q31858054",
+   "name": null,
+   "lat": 14.356388888,
+   "lon": 77.523611111,
+   "category": "mine",
+   "state": "AP",
+   "wikidata_state": "Andhra Pradesh"
+  },
+  {
+   "key": "Q31858632",
+   "name": null,
+   "lat": 19.832222222,
+   "lon": 79.346388888,
+   "category": "mine",
+   "state": "MH",
+   "wikidata_state": "Maharashtra"
+  },
+  {
+   "key": "Q31858633",
+   "name": "Sasti colliery",
+   "lat": 19.833333333,
+   "lon": 79.333611111,
+   "category": "mine",
+   "state": "MH",
+   "wikidata_state": "Maharashtra"
+  },
+  {
+   "key": "Q31858634",
+   "name": null,
+   "lat": 19.922222222,
+   "lon": 79.303611111,
+   "category": "mine",
+   "state": "MH",
+   "wikidata_state": "Maharashtra"
+  },
+  {
+   "key": "Q31858637",
+   "name": null,
+   "lat": 19.95,
+   "lon": 79.322777777,
+   "category": "mine",
+   "state": "MH",
+   "wikidata_state": "Maharashtra"
+  },
+  {
+   "key": "Q31859948",
+   "name": null,
+   "lat": 16.177222222,
+   "lon": 79.220277777,
+   "category": "mine",
+   "state": "AP",
+   "wikidata_state": "Andhra Pradesh"
+  },
+  {
+   "key": "Q31859961",
+   "name": null,
+   "lat": 16.028888888,
+   "lon": 79.159166666,
+   "category": "mine",
+   "state": "AP",
+   "wikidata_state": "Andhra Pradesh"
+  },
+  {
+   "key": "Q31859973",
+   "name": null,
+   "lat": 16.250833333,
+   "lon": 79.309722222,
+   "category": "mine",
+   "state": "AP",
+   "wikidata_state": "Andhra Pradesh"
+  },
+  {
+   "key": "Q31859978",
+   "name": null,
+   "lat": 16.212777777,
+   "lon": 79.268333333,
+   "category": "mine",
+   "state": "AP",
+   "wikidata_state": "Andhra Pradesh"
+  },
+  {
+   "key": "Q31859991",
+   "name": null,
+   "lat": 16.243055555,
+   "lon": 79.362777777,
+   "category": "mine",
+   "state": "AP",
+   "wikidata_state": "Andhra Pradesh"
+  },
+  {
+   "key": "Q31859992",
+   "name": null,
+   "lat": 16.231944444,
+   "lon": 79.338888888,
+   "category": "mine",
+   "state": "AP",
+   "wikidata_state": "Andhra Pradesh"
+  },
+  {
+   "key": "Q29025846",
+   "name": "Sonpur Bazari open cast coal mines",
+   "lat": 23.69119444,
+   "lon": 87.21230556,
+   "category": "mine",
+   "state": "WB",
+   "wikidata_state": "Pandabeswar community development block"
+  },
+  {
+   "key": "Q29857291",
+   "name": "Bauxite Mines",
+   "lat": 11.83329,
+   "lon": 78.22974,
+   "category": "mine",
+   "state": "TN",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q30108916",
+   "name": "Deucha Pachami coal block",
+   "lat": 23.990555555,
+   "lon": 87.524166666,
+   "category": "mine",
+   "state": "WB",
+   "wikidata_state": "Mohammad Bazar community development block"
+  },
+  {
+   "key": "Q56277350",
+   "name": "Sripur Area",
+   "lat": 23.684888888,
+   "lon": 87.047752777,
+   "category": "mine",
+   "state": "WB",
+   "wikidata_state": "Asansol Sadar subdivision"
+  },
+  {
+   "key": "Q56277452",
+   "name": "Satgram Area",
+   "lat": 23.674888888,
+   "lon": 87.082752777,
+   "category": "mine",
+   "state": "WB",
+   "wikidata_state": "Asansol Sadar subdivision"
+  },
+  {
+   "key": "Q56277612",
+   "name": "Sodepur Area",
+   "lat": 23.6868,
+   "lon": 86.8732,
+   "category": "mine",
+   "state": "WB",
+   "wikidata_state": "Asansol Sadar subdivision"
+  },
+  {
+   "key": "Q56277820",
+   "name": "Salanpur Area",
+   "lat": 23.7768,
+   "lon": 86.8832,
+   "category": "mine",
+   "state": "WB",
+   "wikidata_state": "Asansol Sadar subdivision"
+  },
+  {
+   "key": "Q56278085",
+   "name": "Mugma Area",
+   "lat": 23.7761,
+   "lon": 86.7274,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": "Dhanbad district"
+  },
+  {
+   "key": "Q56278642",
+   "name": "Bankola Area",
+   "lat": 23.6685,
+   "lon": 87.2436,
+   "category": "mine",
+   "state": "WB",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q56278944",
+   "name": "Kunustoria Area",
+   "lat": 23.645711111,
+   "lon": 87.117422222,
+   "category": "mine",
+   "state": "WB",
+   "wikidata_state": "Asansol Sadar subdivision"
+  },
+  {
+   "key": "Q56279066",
+   "name": "Kajora Area",
+   "lat": 23.632405555,
+   "lon": 87.171594444,
+   "category": "mine",
+   "state": "WB",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q56279453",
+   "name": "Kenda Area",
+   "lat": 23.6673,
+   "lon": 87.1793,
+   "category": "mine",
+   "state": "WB",
+   "wikidata_state": "Asansol Sadar subdivision"
+  },
+  {
+   "key": "Q56280096",
+   "name": "Pandaveswar Area",
+   "lat": 23.696666666,
+   "lon": 87.273333333,
+   "category": "mine",
+   "state": "WB",
+   "wikidata_state": "Paschim Bardhaman district"
+  },
+  {
+   "key": "Q65052438",
+   "name": "Pootkee Balihari Area",
+   "lat": 23.7544,
+   "lon": 86.3628,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": "Dhanbad district"
+  },
+  {
+   "key": "Q65052446",
+   "name": "Western Jharia Area",
+   "lat": 23.7498,
+   "lon": 86.2743,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": "Jharkhand"
+  },
+  {
+   "key": "Q65052452",
+   "name": "Govindpur Area",
+   "lat": 23.8012,
+   "lon": 86.2766,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": "Jharkhand"
+  },
+  {
+   "key": "Q65052629",
+   "name": "Barora Area",
+   "lat": 23.794689,
+   "lon": 86.214789,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": "Jharkhand"
+  },
+  {
+   "key": "Q65052632",
+   "name": "Block II Area",
+   "lat": 23.7893,
+   "lon": 86.1863,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": "Jharkhand"
+  },
+  {
+   "key": "Q65052726",
+   "name": "Katras Area",
+   "lat": 23.7962,
+   "lon": 86.3285,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": "Jharkhand"
+  },
+  {
+   "key": "Q65052730",
+   "name": "Sijua Area",
+   "lat": 23.7935,
+   "lon": 86.3315,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": "Jharkhand"
+  },
+  {
+   "key": "Q65053148",
+   "name": "Kusunda Area",
+   "lat": 23.7831,
+   "lon": 86.3908,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": "Jharkhand"
+  },
+  {
+   "key": "Q65053152",
+   "name": "Bastacola Area",
+   "lat": 23.7621,
+   "lon": 86.4119,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": "Jharkhand"
+  },
+  {
+   "key": "Q65053307",
+   "name": "Eastern Jharia Area",
+   "lat": 23.6657,
+   "lon": 86.4468,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": "Jharkhand"
+  },
+  {
+   "key": "Q65053312",
+   "name": "Chanch/ Victoria Area",
+   "lat": 23.6345,
+   "lon": 86.4506,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": "Jharkhand"
+  },
+  {
+   "key": "Q65089593",
+   "name": "Lodna Area",
+   "lat": 23.720111111,
+   "lon": 86.410588888,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": "Jharkhand"
+  },
+  {
+   "key": "Q137925088",
+   "name": "Dhangaon",
+   "lat": 23.583,
+   "lon": 80.184,
+   "category": "mine",
+   "state": "MP",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q137925201",
+   "name": "Serrajuddin Nausahi High Grade",
+   "lat": 21.882824,
+   "lon": 85.403858,
+   "category": "mine",
+   "state": "OR",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q137942173",
+   "name": "IREL beach-sand monazite operations",
+   "lat": 10.07639453,
+   "lon": 76.2444378,
+   "category": "mine",
+   "state": "KL",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q137942373",
+   "name": "Govindpal Area",
+   "lat": 18.7,
+   "lon": 81.9,
+   "category": "mine",
+   "state": "CT",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q137942928",
+   "name": "Agnigundala Pb Cu",
+   "lat": 16.219,
+   "lon": 79.665,
+   "category": "mine",
+   "state": "AP",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q16951020",
+   "name": "Jharia coalfield",
+   "lat": 23.75155556,
+   "lon": 86.42033333,
+   "category": "coal deposit",
+   "state": "JH",
+   "wikidata_state": "Jharkhand"
+  },
+  {
+   "key": "Q104821343",
+   "name": "North Karanpura Area",
+   "lat": 23.68,
+   "lon": 85.009,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q104829580",
+   "name": "Barka Sayal Area",
+   "lat": 23.6811,
+   "lon": 85.3258,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q104829875",
+   "name": "Hazaribagh Area",
+   "lat": 23.853741666,
+   "lon": 85.441230555,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q104830055",
+   "name": "Rajrappa Area",
+   "lat": 23.590044444,
+   "lon": 85.677130555,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q104830283",
+   "name": "Argada Area",
+   "lat": 23.6477,
+   "lon": 85.4504,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q104830482",
+   "name": "Kuju Area",
+   "lat": 23.7203,
+   "lon": 85.5028,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q104834005",
+   "name": "Rajhara Area",
+   "lat": 24.1621,
+   "lon": 84.0442,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q104834351",
+   "name": "Kathara Area",
+   "lat": 23.768402777,
+   "lon": 85.892255555,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q104834448",
+   "name": "Dhori Area",
+   "lat": 23.766978,
+   "lon": 85.985389,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q104834467",
+   "name": "Bokaro and Kargali Area",
+   "lat": 23.768878,
+   "lon": 85.971589,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q104882803",
+   "name": "Piparwar Area",
+   "lat": 23.6911,
+   "lon": 85.0668,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q105102669",
+   "name": "Magadh Sanghamitra Area",
+   "lat": 23.8442,
+   "lon": 84.9885,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q105102710",
+   "name": "Amrapali & Chandragupta Area",
+   "lat": 23.8941,
+   "lon": 85.0005,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q107210112",
+   "name": "Turamdih Uranium Mine",
+   "lat": 22.720277777,
+   "lon": 86.185833333,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": null
+  },
+  {
+   "key": "Q139848755",
+   "name": null,
+   "lat": 22.733333333,
+   "lon": 86.144722222,
+   "category": "mine",
+   "state": "JH",
+   "wikidata_state": "Adityapur(Gamharia) block"
+  }
+ ]
+}

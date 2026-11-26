@@ -1,0 +1,246 @@
+{
+ "meta": {
+  "name": "State-wise merchandise exports, FY 2024-25 (RBI Handbook of Statistics on Indian States, Table 181)",
+  "source_org": "Reserve Bank of India (Handbook of Statistics on Indian States 2024-25), original data DGCI&S, Ministry of Commerce and Industry",
+  "url": "https://themapsdaily.com/posts/in-state-exports",
+  "landing_url": "https://www.rbi.org.in/Scripts/AnnualPublications.aspx?head=Handbook%20of%20Statistics%20on%20Indian%20States",
+  "published": "2025-12-11 (RBI Handbook 2024-25 edition)",
+  "reference_year": "2024-25",
+  "resolution": "state",
+  "license": "Not stated by the compiler; RBI data, cite RBI and DGCI&S",
+  "update_frequency": "annual",
+  "kind": "curated",
+  "redistributed_via": "The Maps Daily (themapsdaily.com) re-keyed RBI Table 181. The RBI file itself (rbidocs.rbi.org.in) answers automated requests with a CAPTCHA page.",
+  "limitations": "Secondary compilation of the RBI table. The compiler labels the year '2024'; the all-India total 437,417 USD million matches India's FY 2024-25 merchandise exports, and top-state values (Gujarat 116,332; Karnataka 30,481) match FIEO/other FY 2024-25 listings, so the year is read as FY 2024-25. The 36 state and UT rows sum to 389,294 USD million; the rest of the all-India total (437,417) is not assigned to a state in the source. Export value is booked to the state of origin of the goods as recorded by DGCI&S, which over-states port states.",
+  "method": "Parsed the state table from the saved HTML page; no conversion. States with no row would be null (none).",
+  "id": "exports_state",
+  "accessed": "2026-11-26"
+ },
+ "fields": {
+  "exports_usd_mn": {
+   "name": "Merchandise exports",
+   "unit": "USD million",
+   "type": "count",
+   "description": "State-wise merchandise exports, FY 2024-25 (RBI Handbook Table 181; DGCI&S basis). Values below 1 are shown as 0 in the source (Ladakh, Mizoram).",
+   "higher_is": "better"
+  }
+ },
+ "rows": [
+  {
+   "key": "AN",
+   "name": "Andaman and Nicobar Islands",
+   "state": "AN",
+   "exports_usd_mn": 1
+  },
+  {
+   "key": "AP",
+   "name": "Andhra Pradesh",
+   "state": "AP",
+   "exports_usd_mn": 20782
+  },
+  {
+   "key": "AR",
+   "name": "Arunachal Pradesh",
+   "state": "AR",
+   "exports_usd_mn": 2
+  },
+  {
+   "key": "AS",
+   "name": "Assam",
+   "state": "AS",
+   "exports_usd_mn": 551
+  },
+  {
+   "key": "BR",
+   "name": "Bihar",
+   "state": "BR",
+   "exports_usd_mn": 2041
+  },
+  {
+   "key": "CH",
+   "name": "Chandigarh",
+   "state": "CH",
+   "exports_usd_mn": 14
+  },
+  {
+   "key": "CT",
+   "name": "Chhattisgarh",
+   "state": "CT",
+   "exports_usd_mn": 2189
+  },
+  {
+   "key": "DH",
+   "name": "Dadra and Nagar Haveli and Daman and Diu",
+   "state": "DH",
+   "exports_usd_mn": 4646
+  },
+  {
+   "key": "DL",
+   "name": "Delhi",
+   "state": "DL",
+   "exports_usd_mn": 876
+  },
+  {
+   "key": "GA",
+   "name": "Goa",
+   "state": "GA",
+   "exports_usd_mn": 2476
+  },
+  {
+   "key": "GJ",
+   "name": "Gujarat",
+   "state": "GJ",
+   "exports_usd_mn": 116332
+  },
+  {
+   "key": "HP",
+   "name": "Himachal Pradesh",
+   "state": "HP",
+   "exports_usd_mn": 228
+  },
+  {
+   "key": "HR",
+   "name": "Haryana",
+   "state": "HR",
+   "exports_usd_mn": 2493
+  },
+  {
+   "key": "JH",
+   "name": "Jharkhand",
+   "state": "JH",
+   "exports_usd_mn": 1898
+  },
+  {
+   "key": "JK",
+   "name": "Jammu and Kashmir",
+   "state": "JK",
+   "exports_usd_mn": 70
+  },
+  {
+   "key": "KA",
+   "name": "Karnataka",
+   "state": "KA",
+   "exports_usd_mn": 30481
+  },
+  {
+   "key": "KL",
+   "name": "Kerala",
+   "state": "KL",
+   "exports_usd_mn": 4772
+  },
+  {
+   "key": "LA",
+   "name": "Ladakh",
+   "state": "LA",
+   "exports_usd_mn": 0
+  },
+  {
+   "key": "LD",
+   "name": "Lakshadweep",
+   "state": "LD",
+   "exports_usd_mn": 1
+  },
+  {
+   "key": "MH",
+   "name": "Maharashtra",
+   "state": "MH",
+   "exports_usd_mn": 65855
+  },
+  {
+   "key": "ML",
+   "name": "Meghalaya",
+   "state": "ML",
+   "exports_usd_mn": 33
+  },
+  {
+   "key": "MN",
+   "name": "Manipur",
+   "state": "MN",
+   "exports_usd_mn": 1
+  },
+  {
+   "key": "MP",
+   "name": "Madhya Pradesh",
+   "state": "MP",
+   "exports_usd_mn": 7825
+  },
+  {
+   "key": "MZ",
+   "name": "Mizoram",
+   "state": "MZ",
+   "exports_usd_mn": 0
+  },
+  {
+   "key": "NL",
+   "name": "Nagaland",
+   "state": "NL",
+   "exports_usd_mn": 2
+  },
+  {
+   "key": "OR",
+   "name": "Odisha",
+   "state": "OR",
+   "exports_usd_mn": 10098
+  },
+  {
+   "key": "PB",
+   "name": "Punjab",
+   "state": "PB",
+   "exports_usd_mn": 1842
+  },
+  {
+   "key": "PY",
+   "name": "Puducherry",
+   "state": "PY",
+   "exports_usd_mn": 517
+  },
+  {
+   "key": "RJ",
+   "name": "Rajasthan",
+   "state": "RJ",
+   "exports_usd_mn": 7165
+  },
+  {
+   "key": "SK",
+   "name": "Sikkim",
+   "state": "SK",
+   "exports_usd_mn": 20
+  },
+  {
+   "key": "TG",
+   "name": "Telangana",
+   "state": "TG",
+   "exports_usd_mn": 19123
+  },
+  {
+   "key": "TN",
+   "name": "Tamil Nadu",
+   "state": "TN",
+   "exports_usd_mn": 52074
+  },
+  {
+   "key": "TR",
+   "name": "Tripura",
+   "state": "TR",
+   "exports_usd_mn": 12
+  },
+  {
+   "key": "UP",
+   "name": "Uttar Pradesh",
+   "state": "UP",
+   "exports_usd_mn": 21980
+  },
+  {
+   "key": "UT",
+   "name": "Uttarakhand",
+   "state": "UT",
+   "exports_usd_mn": 226
+  },
+  {
+   "key": "WB",
+   "name": "West Bengal",
+   "state": "WB",
+   "exports_usd_mn": 12668
+  }
+ ]
+}

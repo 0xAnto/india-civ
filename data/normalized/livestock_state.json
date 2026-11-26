@@ -1,0 +1,374 @@
+{
+ "meta": {
+  "name": "State-wise production of milk, eggs, meat and wool (livestock products)",
+  "source_org": "Department of Animal Husbandry & Dairying (printed in Agricultural Statistics at a Glance 2024-25, table 2.55)",
+  "url": "https://nccd.gov.in/uploads/Agricultural_Statisitcs_at_a_Glance_2024_25_11da3cd37d.pdf",
+  "landing_url": "https://desagri.gov.in/",
+  "published": "2025",
+  "reference_year": "2023-24",
+  "resolution": "state",
+  "license": "Government Open Data License - India (GODL)",
+  "update_frequency": "annual",
+  "kind": "official",
+  "limitations": "This file holds livestock PRODUCTS, not animal counts. State totals of the 20th Livestock Census (2019) were not downloaded. Only the all-India census total is in the source. A dash in the source is null.",
+  "method": "pdftotext -layout, row parsing, no unit change.",
+  "id": "livestock_state",
+  "accessed": "2026-11-26"
+ },
+ "fields": {
+  "milk_kt": {
+   "name": "Milk production 2023-24",
+   "unit": "thousand tonnes",
+   "type": "count",
+   "description": "",
+   "higher_is": "better"
+  },
+  "eggs_lakh": {
+   "name": "Egg production 2023-24",
+   "unit": "lakh numbers",
+   "type": "count",
+   "description": "",
+   "higher_is": "better"
+  },
+  "meat_kt": {
+   "name": "Meat production 2023-24",
+   "unit": "thousand tonnes",
+   "type": "count",
+   "description": "",
+   "higher_is": "better"
+  },
+  "wool_kkg": {
+   "name": "Wool production 2023-24",
+   "unit": "thousand kg",
+   "type": "count",
+   "description": "",
+   "higher_is": "better"
+  }
+ },
+ "rows": [
+  {
+   "key": "AN",
+   "name": "Andaman and Nicobar Islands",
+   "state": "AN",
+   "milk_kt": 18.0,
+   "eggs_lakh": 751.0,
+   "meat_kt": 6.0,
+   "wool_kkg": null
+  },
+  {
+   "key": "AP",
+   "name": "Andhra Pradesh",
+   "state": "AP",
+   "milk_kt": 13994.0,
+   "eggs_lakh": 254874.0,
+   "meat_kt": 1068.0,
+   "wool_kkg": null
+  },
+  {
+   "key": "AR",
+   "name": "Arunachal Pradesh",
+   "state": "AR",
+   "milk_kt": 20.0,
+   "eggs_lakh": 459.0,
+   "meat_kt": 20.0,
+   "wool_kkg": 14.0
+  },
+  {
+   "key": "AS",
+   "name": "Assam",
+   "state": "AS",
+   "milk_kt": 1092.0,
+   "eggs_lakh": 6229.0,
+   "meat_kt": 69.0,
+   "wool_kkg": null
+  },
+  {
+   "key": "BR",
+   "name": "Bihar",
+   "state": "BR",
+   "milk_kt": 12853.0,
+   "eggs_lakh": 34400.0,
+   "meat_kt": 404.0,
+   "wool_kkg": 174.0
+  },
+  {
+   "key": "CH",
+   "name": "Chandigarh",
+   "state": "CH",
+   "milk_kt": 59.0,
+   "eggs_lakh": 24.0,
+   "meat_kt": 1.0,
+   "wool_kkg": null
+  },
+  {
+   "key": "CT",
+   "name": "Chhattisgarh",
+   "state": "CT",
+   "milk_kt": 2124.0,
+   "eggs_lakh": 23876.0,
+   "meat_kt": 61.0,
+   "wool_kkg": 75.0
+  },
+  {
+   "key": "DH",
+   "name": "Dadra and Nagar Haveli and Daman and Diu",
+   "state": "DH",
+   "milk_kt": 2.0,
+   "eggs_lakh": 9.0,
+   "meat_kt": 0.0,
+   "wool_kkg": null
+  },
+  {
+   "key": "DL",
+   "name": "Delhi",
+   "state": "DL",
+   "milk_kt": 488.0,
+   "eggs_lakh": 0.0,
+   "meat_kt": 0.0,
+   "wool_kkg": null
+  },
+  {
+   "key": "GA",
+   "name": "Goa",
+   "state": "GA",
+   "milk_kt": 64.0,
+   "eggs_lakh": 429.0,
+   "meat_kt": 8.0,
+   "wool_kkg": null
+  },
+  {
+   "key": "GJ",
+   "name": "Gujarat",
+   "state": "GJ",
+   "milk_kt": 18312.0,
+   "eggs_lakh": 18930.0,
+   "meat_kt": 37.0,
+   "wool_kkg": 2084.0
+  },
+  {
+   "key": "HR",
+   "name": "Haryana",
+   "state": "HR",
+   "milk_kt": 12220.0,
+   "eggs_lakh": 85596.0,
+   "meat_kt": 691.0,
+   "wool_kkg": 660.0
+  },
+  {
+   "key": "HP",
+   "name": "Himachal Pradesh",
+   "state": "HP",
+   "milk_kt": 1749.0,
+   "eggs_lakh": 858.0,
+   "meat_kt": 6.0,
+   "wool_kkg": 1423.0
+  },
+  {
+   "key": "JK",
+   "name": "Jammu and Kashmir",
+   "state": "JK",
+   "milk_kt": 2875.0,
+   "eggs_lakh": 1832.0,
+   "meat_kt": 91.0,
+   "wool_kkg": 7770.0
+  },
+  {
+   "key": "JH",
+   "name": "Jharkhand",
+   "state": "JH",
+   "milk_kt": 3025.0,
+   "eggs_lakh": 10480.0,
+   "meat_kt": 91.0,
+   "wool_kkg": 247.0
+  },
+  {
+   "key": "KA",
+   "name": "Karnataka",
+   "state": "KA",
+   "milk_kt": 13463.0,
+   "eggs_lakh": 94591.0,
+   "meat_kt": 454.0,
+   "wool_kkg": 659.0
+  },
+  {
+   "key": "KL",
+   "name": "Kerala",
+   "state": "KL",
+   "milk_kt": 2580.0,
+   "eggs_lakh": 24053.0,
+   "meat_kt": 518.0,
+   "wool_kkg": null
+  },
+  {
+   "key": "LA",
+   "name": "Ladakh",
+   "state": "LA",
+   "milk_kt": 29.0,
+   "eggs_lakh": 36.0,
+   "meat_kt": 1.45,
+   "wool_kkg": 2.0
+  },
+  {
+   "key": "LD",
+   "name": "Lakshadweep",
+   "state": "LD",
+   "milk_kt": 0.0,
+   "eggs_lakh": 74.0,
+   "meat_kt": 0.0,
+   "wool_kkg": null
+  },
+  {
+   "key": "MP",
+   "name": "Madhya Pradesh",
+   "state": "MP",
+   "milk_kt": 21326.0,
+   "eggs_lakh": 34919.0,
+   "meat_kt": 152.0,
+   "wool_kkg": 341.0
+  },
+  {
+   "key": "MH",
+   "name": "Maharashtra",
+   "state": "MH",
+   "milk_kt": 16045.0,
+   "eggs_lakh": 77938.0,
+   "meat_kt": 1157.0,
+   "wool_kkg": 1601.0
+  },
+  {
+   "key": "MN",
+   "name": "Manipur",
+   "state": "MN",
+   "milk_kt": 63.0,
+   "eggs_lakh": 1627.0,
+   "meat_kt": 31.0,
+   "wool_kkg": null
+  },
+  {
+   "key": "ML",
+   "name": "Meghalaya",
+   "state": "ML",
+   "milk_kt": 97.0,
+   "eggs_lakh": 1173.0,
+   "meat_kt": 55.0,
+   "wool_kkg": null
+  },
+  {
+   "key": "MZ",
+   "name": "Mizoram",
+   "state": "MZ",
+   "milk_kt": 25.0,
+   "eggs_lakh": 400.0,
+   "meat_kt": 16.0,
+   "wool_kkg": null
+  },
+  {
+   "key": "NL",
+   "name": "Nagaland",
+   "state": "NL",
+   "milk_kt": 53.0,
+   "eggs_lakh": 443.0,
+   "meat_kt": 24.0,
+   "wool_kkg": null
+  },
+  {
+   "key": "OR",
+   "name": "Odisha",
+   "state": "OR",
+   "milk_kt": 2636.0,
+   "eggs_lakh": 37229.0,
+   "meat_kt": 242.0,
+   "wool_kkg": null
+  },
+  {
+   "key": "PY",
+   "name": "Puducherry",
+   "state": "PY",
+   "milk_kt": 50.0,
+   "eggs_lakh": 114.0,
+   "meat_kt": 15.0,
+   "wool_kkg": null
+  },
+  {
+   "key": "PB",
+   "name": "Punjab",
+   "state": "PB",
+   "milk_kt": 14000.0,
+   "eggs_lakh": 47062.0,
+   "meat_kt": 263.0,
+   "wool_kkg": 560.0
+  },
+  {
+   "key": "RJ",
+   "name": "Rajasthan",
+   "state": "RJ",
+   "milk_kt": 34733.0,
+   "eggs_lakh": 30873.0,
+   "meat_kt": 248.0,
+   "wool_kkg": 16014.0
+  },
+  {
+   "key": "SK",
+   "name": "Sikkim",
+   "state": "SK",
+   "milk_kt": 81.0,
+   "eggs_lakh": 126.0,
+   "meat_kt": 5.0,
+   "wool_kkg": 0.0
+  },
+  {
+   "key": "TN",
+   "name": "Tamil Nadu",
+   "state": "TN",
+   "milk_kt": 10808.0,
+   "eggs_lakh": 223325.0,
+   "meat_kt": 768.0,
+   "wool_kkg": 2.0
+  },
+  {
+   "key": "TG",
+   "name": "Telangana",
+   "state": "TG",
+   "milk_kt": 5840.0,
+   "eggs_lakh": 183850.0,
+   "meat_kt": 1113.0,
+   "wool_kkg": 0.0
+  },
+  {
+   "key": "TR",
+   "name": "Tripura",
+   "state": "TR",
+   "milk_kt": 247.0,
+   "eggs_lakh": 3596.0,
+   "meat_kt": 60.0,
+   "wool_kkg": null
+  },
+  {
+   "key": "UP",
+   "name": "Uttar Pradesh",
+   "state": "UP",
+   "milk_kt": 38780.0,
+   "eggs_lakh": 59207.0,
+   "meat_kt": 1260.0,
+   "wool_kkg": 829.0
+  },
+  {
+   "key": "UT",
+   "name": "Uttarakhand",
+   "state": "UT",
+   "milk_kt": 1898.0,
+   "eggs_lakh": 5941.0,
+   "meat_kt": 25.0,
+   "wool_kkg": 462.0
+  },
+  {
+   "key": "WB",
+   "name": "West Bengal",
+   "state": "WB",
+   "milk_kt": 7650.0,
+   "eggs_lakh": 162394.0,
+   "meat_kt": 1294.0,
+   "wool_kkg": 773.0
+  }
+ ]
+}

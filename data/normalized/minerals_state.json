@@ -1,0 +1,331 @@
+{
+ "meta": {
+  "name": "Value of mineral production and reporting mines by state (excl. fuel, atomic, minor minerals)",
+  "source_org": "Indian Bureau of Mines, Ministry of Mines",
+  "url": "https://ibm.gov.in/writereaddata/files/177426215469c1178a48453IMYB_2024_EBookFinal.pdf",
+  "landing_url": "https://ibm.gov.in/?c=pages&id=77&m=index",
+  "published": "2025",
+  "reference_year": "2023-24 (provisional)",
+  "resolution": "state",
+  "license": "Government Open Data License - India (GODL) / Government of India publication",
+  "update_frequency": "annual",
+  "kind": "official",
+  "limitations": "Excludes fuel minerals (coal, lignite, oil, gas), atomic minerals and minor minerals such as sand and stone. A null value means the state is not in the IBM table (no reported MCDR production). Goa 2023-24 value is small because of the mining ban period.",
+  "method": "pdftotext -layout, then rows of tables 1 and 2 of the State Reviews chapter. Rs crore = Rs thousand / 10,000 (computed here).",
+  "id": "minerals_state",
+  "accessed": "2026-11-26"
+ },
+ "fields": {
+  "value_rs_thousand": {
+   "name": "Value of mineral production 2023-24",
+   "unit": "Rs thousand",
+   "type": "count",
+   "description": "Source unit.",
+   "higher_is": "neutral"
+  },
+  "value_rs_crore": {
+   "name": "Value of mineral production 2023-24",
+   "unit": "Rs crore",
+   "type": "count",
+   "description": "Rs thousand / 10000.",
+   "higher_is": "neutral"
+  },
+  "reporting_mines": {
+   "name": "Reporting mines 2023-24",
+   "unit": "mines",
+   "type": "count",
+   "description": "Mines that reported production or developmental work.",
+   "higher_is": "neutral"
+  }
+ },
+ "rows": [
+  {
+   "key": "AN",
+   "name": "Andaman and Nicobar Islands",
+   "state": "AN",
+   "value_rs_thousand": null,
+   "value_rs_crore": null,
+   "reporting_mines": null
+  },
+  {
+   "key": "AP",
+   "name": "Andhra Pradesh",
+   "state": "AP",
+   "value_rs_thousand": 15007669.0,
+   "value_rs_crore": 1500.8,
+   "reporting_mines": 117.0
+  },
+  {
+   "key": "AR",
+   "name": "Arunachal Pradesh",
+   "state": "AR",
+   "value_rs_thousand": null,
+   "value_rs_crore": null,
+   "reporting_mines": null
+  },
+  {
+   "key": "AS",
+   "name": "Assam",
+   "state": "AS",
+   "value_rs_thousand": 634849.0,
+   "value_rs_crore": 63.5,
+   "reporting_mines": 4.0
+  },
+  {
+   "key": "BR",
+   "name": "Bihar",
+   "state": "BR",
+   "value_rs_thousand": 396419.0,
+   "value_rs_crore": 39.6,
+   "reporting_mines": 1.0
+  },
+  {
+   "key": "CH",
+   "name": "Chandigarh",
+   "state": "CH",
+   "value_rs_thousand": null,
+   "value_rs_crore": null,
+   "reporting_mines": null
+  },
+  {
+   "key": "CT",
+   "name": "Chhattisgarh",
+   "state": "CT",
+   "value_rs_thousand": 201642376.0,
+   "value_rs_crore": 20164.2,
+   "reporting_mines": 108.0
+  },
+  {
+   "key": "DH",
+   "name": "Dadra and Nagar Haveli and Daman and Diu",
+   "state": "DH",
+   "value_rs_thousand": null,
+   "value_rs_crore": null,
+   "reporting_mines": null
+  },
+  {
+   "key": "DL",
+   "name": "Delhi",
+   "state": "DL",
+   "value_rs_thousand": null,
+   "value_rs_crore": null,
+   "reporting_mines": null
+  },
+  {
+   "key": "GA",
+   "name": "Goa",
+   "state": "GA",
+   "value_rs_thousand": 17421.0,
+   "value_rs_crore": 1.7,
+   "reporting_mines": 2.0
+  },
+  {
+   "key": "GJ",
+   "name": "Gujarat",
+   "state": "GJ",
+   "value_rs_thousand": 7637705.0,
+   "value_rs_crore": 763.8,
+   "reporting_mines": 164.0
+  },
+  {
+   "key": "HR",
+   "name": "Haryana",
+   "state": "HR",
+   "value_rs_thousand": null,
+   "value_rs_crore": null,
+   "reporting_mines": null
+  },
+  {
+   "key": "HP",
+   "name": "Himachal Pradesh",
+   "state": "HP",
+   "value_rs_thousand": 3118011.0,
+   "value_rs_crore": 311.8,
+   "reporting_mines": 27.0
+  },
+  {
+   "key": "JK",
+   "name": "Jammu and Kashmir",
+   "state": "JK",
+   "value_rs_thousand": 310646.0,
+   "value_rs_crore": 31.1,
+   "reporting_mines": 19.0
+  },
+  {
+   "key": "JH",
+   "name": "Jharkhand",
+   "state": "JH",
+   "value_rs_thousand": 57962656.0,
+   "value_rs_crore": 5796.3,
+   "reporting_mines": 38.0
+  },
+  {
+   "key": "KA",
+   "name": "Karnataka",
+   "state": "KA",
+   "value_rs_thousand": 161035005.0,
+   "value_rs_crore": 16103.5,
+   "reporting_mines": 126.0
+  },
+  {
+   "key": "KL",
+   "name": "Kerala",
+   "state": "KL",
+   "value_rs_thousand": 304893.0,
+   "value_rs_crore": 30.5,
+   "reporting_mines": 1.0
+  },
+  {
+   "key": "LA",
+   "name": "Ladakh",
+   "state": "LA",
+   "value_rs_thousand": null,
+   "value_rs_crore": null,
+   "reporting_mines": null
+  },
+  {
+   "key": "LD",
+   "name": "Lakshadweep",
+   "state": "LD",
+   "value_rs_thousand": null,
+   "value_rs_crore": null,
+   "reporting_mines": null
+  },
+  {
+   "key": "MP",
+   "name": "Madhya Pradesh",
+   "state": "MP",
+   "value_rs_thousand": 38637608.0,
+   "value_rs_crore": 3863.8,
+   "reporting_mines": 304.0
+  },
+  {
+   "key": "MH",
+   "name": "Maharashtra",
+   "state": "MH",
+   "value_rs_thousand": 55237866.0,
+   "value_rs_crore": 5523.8,
+   "reporting_mines": 96.0
+  },
+  {
+   "key": "MN",
+   "name": "Manipur",
+   "state": "MN",
+   "value_rs_thousand": null,
+   "value_rs_crore": null,
+   "reporting_mines": null
+  },
+  {
+   "key": "ML",
+   "name": "Meghalaya",
+   "state": "ML",
+   "value_rs_thousand": 4765751.0,
+   "value_rs_crore": 476.6,
+   "reporting_mines": 17.0
+  },
+  {
+   "key": "MZ",
+   "name": "Mizoram",
+   "state": "MZ",
+   "value_rs_thousand": null,
+   "value_rs_crore": null,
+   "reporting_mines": null
+  },
+  {
+   "key": "NL",
+   "name": "Nagaland",
+   "state": "NL",
+   "value_rs_thousand": null,
+   "value_rs_crore": null,
+   "reporting_mines": null
+  },
+  {
+   "key": "OR",
+   "name": "Odisha",
+   "state": "OR",
+   "value_rs_thousand": 639421108.0,
+   "value_rs_crore": 63942.1,
+   "reporting_mines": 120.0
+  },
+  {
+   "key": "PY",
+   "name": "Puducherry",
+   "state": "PY",
+   "value_rs_thousand": null,
+   "value_rs_crore": null,
+   "reporting_mines": null
+  },
+  {
+   "key": "PB",
+   "name": "Punjab",
+   "state": "PB",
+   "value_rs_thousand": null,
+   "value_rs_crore": null,
+   "reporting_mines": null
+  },
+  {
+   "key": "RJ",
+   "name": "Rajasthan",
+   "state": "RJ",
+   "value_rs_thousand": 216709400.0,
+   "value_rs_crore": 21670.9,
+   "reporting_mines": 94.0
+  },
+  {
+   "key": "SK",
+   "name": "Sikkim",
+   "state": "SK",
+   "value_rs_thousand": null,
+   "value_rs_crore": null,
+   "reporting_mines": null
+  },
+  {
+   "key": "TN",
+   "name": "Tamil Nadu",
+   "state": "TN",
+   "value_rs_thousand": 8819511.0,
+   "value_rs_crore": 882.0,
+   "reporting_mines": 83.0
+  },
+  {
+   "key": "TG",
+   "name": "Telangana",
+   "state": "TG",
+   "value_rs_thousand": 5565237.0,
+   "value_rs_crore": 556.5,
+   "reporting_mines": 33.0
+  },
+  {
+   "key": "TR",
+   "name": "Tripura",
+   "state": "TR",
+   "value_rs_thousand": null,
+   "value_rs_crore": null,
+   "reporting_mines": null
+  },
+  {
+   "key": "UP",
+   "name": "Uttar Pradesh",
+   "state": "UP",
+   "value_rs_thousand": 696538.0,
+   "value_rs_crore": 69.7,
+   "reporting_mines": 3.0
+  },
+  {
+   "key": "UT",
+   "name": "Uttarakhand",
+   "state": "UT",
+   "value_rs_thousand": 113917.0,
+   "value_rs_crore": 11.4,
+   "reporting_mines": 2.0
+  },
+  {
+   "key": "WB",
+   "name": "West Bengal",
+   "state": "WB",
+   "value_rs_thousand": null,
+   "value_rs_crore": null,
+   "reporting_mines": null
+  }
+ ]
+}

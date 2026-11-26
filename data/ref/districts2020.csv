@@ -1,0 +1,725 @@
+state,district,dt_code,year_tag
+Andaman and Nicobar Islands,Nicobars,638,2011_c
+Andaman and Nicobar Islands,North and Middle Andaman,639,2011_c
+Andaman and Nicobar Islands,South Andaman,640,2011_c
+Andhra Pradesh,Anantapur,553,2011_c
+Andhra Pradesh,Chittoor,554,2011_c
+Andhra Pradesh,East Godavari,545,2011_c
+Andhra Pradesh,Guntur,548,2011_c
+Andhra Pradesh,Krishna,547,2011_c
+Andhra Pradesh,Kurnool,552,2011_c
+Andhra Pradesh,Prakasam,549,2011_c
+Andhra Pradesh,S.P.S. Nellore,550,2011_c
+Andhra Pradesh,Srikakulam,542,2011_c
+Andhra Pradesh,Visakhapatnam,544,2011_c
+Andhra Pradesh,Vizianagaram,543,2011_c
+Andhra Pradesh,West Godavari,546,2011_c
+Andhra Pradesh,Y.S.R. Kadapa,551,2011_c
+Arunachal Pradesh,Anjaw,260,2011_c
+Arunachal Pradesh,Changlang,253,2011_c
+Arunachal Pradesh,East Kameng,247,2011_c
+Arunachal Pradesh,East Siang,251,2011_c
+Arunachal Pradesh,Kamle,778,2018
+Arunachal Pradesh,Kra Daadi,763,2015_c
+Arunachal Pradesh,Kurung Kumey,256,2011_c
+Arunachal Pradesh,Lepa Rada,784,2018
+Arunachal Pradesh,Lohit,259,2011_c
+Arunachal Pradesh,Longding,761,2012_c
+Arunachal Pradesh,Lower Dibang Valley,258,2011_c
+Arunachal Pradesh,Lower Siang,779,2018
+Arunachal Pradesh,Lower Subansiri,255,2011_c
+Arunachal Pradesh,Namsai,762,2014_c
+Arunachal Pradesh,Pakke Kessang,783,2018
+Arunachal Pradesh,Papum Pare,248,2011_c
+Arunachal Pradesh,Shi Yomi,785,2018
+Arunachal Pradesh,Siang,764,2015_c
+Arunachal Pradesh,Tawang,245,2011_c
+Arunachal Pradesh,Tirap,254,2011_c
+Arunachal Pradesh,Upper Dibang Valley,257,2011_c
+Arunachal Pradesh,Upper Siang,252,2011_c
+Arunachal Pradesh,Upper Subansiri,249,2011_c
+Arunachal Pradesh,West Kameng,246,2011_c
+Arunachal Pradesh,West Siang,250,2011_c
+Assam,Baksa,324,2011_c
+Assam,Barpeta,303,2011_c
+Assam,Biswanath,756,2015_c
+Assam,Bongaigaon,319,2011_c
+Assam,Cachar,316,2011_c
+Assam,Charaideo,755,2015_c
+Assam,Chirang,320,2011_c
+Assam,Darrang,325,2011_c
+Assam,Dhemaji,308,2011_c
+Assam,Dhubri,301,2011_c
+Assam,Dibrugarh,310,2011_c
+Assam,Dima Hasao,315,2011_c
+Assam,Goalpara,302,2011_c
+Assam,Golaghat,313,2011_c
+Assam,Hailakandi,318,2011_c
+Assam,Hojai,757,2015_c
+Assam,Jorhat,312,2011_c
+Assam,Kamrup,321,2011_c
+Assam,Kamrup Metropolitan,322,2011_c
+Assam,Karbi Anglong,314,2011_c
+Assam,Karimganj,317,2011_c
+Assam,Kokrajhar,300,2011_c
+Assam,Lakhimpur,307,2011_c
+Assam,Majuli,760,2016_c
+Assam,Morigaon,304,2011_c
+Assam,Nagaon,305,2011_c
+Assam,Nalbari,323,2011_c
+Assam,Sivasagar,311,2011_c
+Assam,Sonitpur,306,2011_c
+Assam,South Salmara Mankachar,758,2015_c
+Assam,Tinsukia,309,2011_c
+Assam,Udalguri,326,2011_c
+Assam,West Karbi Anglong,759,2016_c
+Bihar,Araria,209,2011_c
+Bihar,Arwal,240,2011_c
+Bihar,Aurangabad,235,2011_c
+Bihar,Banka,225,2011_c
+Bihar,Begusarai,222,2011_c
+Bihar,Bhagalpur,224,2011_c
+Bihar,Bhojpur,231,2011_c
+Bihar,Buxar,232,2011_c
+Bihar,Darbhanga,215,2011_c
+Bihar,East Champaran,204,2011_c
+Bihar,Gaya,236,2011_c
+Bihar,Gopalganj,217,2011_c
+Bihar,Jamui,238,2011_c
+Bihar,Jehanabad,239,2011_c
+Bihar,Kaimur,233,2011_c
+Bihar,Katihar,212,2011_c
+Bihar,Khagaria,223,2011_c
+Bihar,Kishanganj,210,2011_c
+Bihar,Lakhisarai,227,2011_c
+Bihar,Madhepura,213,2011_c
+Bihar,Madhubani,207,2011_c
+Bihar,Munger,226,2011_c
+Bihar,Muzaffarpur,216,2011_c
+Bihar,Nalanda,229,2011_c
+Bihar,Nawada,237,2011_c
+Bihar,Patna,230,2011_c
+Bihar,Purnia,211,2011_c
+Bihar,Rohtas,234,2011_c
+Bihar,Saharsa,214,2011_c
+Bihar,Samastipur,221,2011_c
+Bihar,Saran,219,2011_c
+Bihar,Sheikhpura,228,2011_c
+Bihar,Sheohar,205,2011_c
+Bihar,Sitamarhi,206,2011_c
+Bihar,Siwan,218,2011_c
+Bihar,Supaul,208,2011_c
+Bihar,Vaishali,220,2011_c
+Bihar,West Champaran,203,2011_c
+Chandigarh,Chandigarh,055,2011_c
+Chhattisgarh,Balod,719,update2014
+Chhattisgarh,Baloda Bazar,721,update2014
+Chhattisgarh,Balrampur,716,2011_c
+Chhattisgarh,Bametara,718,update2014
+Chhattisgarh,Bastar,414,2011_c
+Chhattisgarh,Bijapur,417,2011_c
+Chhattisgarh,Bilaspur,406,2011_c
+Chhattisgarh,Dakshin Bastar Dantewada,416,2011_c
+Chhattisgarh,Dhamtari,412,2011_c
+Chhattisgarh,Durg,409,2011_c
+Chhattisgarh,Gariaband,720,update2014
+Chhattisgarh,Janjgir Champa,405,2011_c
+Chhattisgarh,Jashpur,402,2011_c
+Chhattisgarh,Kabeerdham,407,2011_c
+Chhattisgarh,Kondagaon,722,update2014
+Chhattisgarh,Korba,404,2011_c
+Chhattisgarh,Koriya,400,2011_c
+Chhattisgarh,Mahasamund,411,2011_c
+Chhattisgarh,Mungeli,717,update2014
+Chhattisgarh,Narayanpur,415,2011_c
+Chhattisgarh,Raigarh,403,2011_c
+Chhattisgarh,Raipur,410,2011_c
+Chhattisgarh,Rajnandgaon,408,2011_c
+Chhattisgarh,Sukma,723,update2014
+Chhattisgarh,Surajpur,715,update2014
+Chhattisgarh,Surguja,401,2011_c
+Chhattisgarh,Uttar Bastar Kanker,413,2011_c
+Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,496,2011_c
+Dadra and Nagar Haveli and Daman and Diu,Daman,495,2011_c
+Dadra and Nagar Haveli and Daman and Diu,Diu,494,2011_c
+Delhi,Delhi,,2011_c
+Goa,North Goa,585,2011_c
+Goa,South Goa,586,2011_c
+Gujarat,Ahmedabad,474,2011_c
+Gujarat,Amreli,480,2011_c
+Gujarat,Anand,482,2011_c
+Gujarat,Aravalli,725,update2014
+Gujarat,Banaskantha,469,2011_c
+Gujarat,Bharuch,488,2011_c
+Gujarat,Bhavnagar,481,2011_c
+Gujarat,Botad,726,update2014
+Gujarat,Chhota Udaipur,731,update2014
+Gujarat,Dahod,485,2011_c
+Gujarat,Dang,489,2011_c
+Gujarat,Devbhumi Dwarka,728,update2014
+Gujarat,Gandhinagar,473,2011_c
+Gujarat,Gir Somnath,729,update2014
+Gujarat,Jamnagar,477,2011_c
+Gujarat,Junagadh,479,2011_c
+Gujarat,Kheda,483,2011_c
+Gujarat,Kutch,468,2011_c
+Gujarat,Mahisagar,730,update2014
+Gujarat,Mehsana,471,2011_c
+Gujarat,Morbi,727,update2014
+Gujarat,Narmada,487,2011_c
+Gujarat,Navsari,490,2011_c
+Gujarat,Panchmahal,484,2011_c
+Gujarat,Patan,470,2011_c
+Gujarat,Porbandar,478,2011_c
+Gujarat,Rajkot,476,2011_c
+Gujarat,Sabarkantha,472,2011_c
+Gujarat,Surat,492,2011_c
+Gujarat,Surendranagar,475,2011_c
+Gujarat,Tapi,493,2011_c
+Gujarat,Vadodara,486,2011_c
+Gujarat,Valsad,491,2011_c
+Gujarat,Vav-Tharad,746,update2025
+Haryana,Ambala,070,2011_c
+Haryana,Bhiwani,081,2011_c
+Haryana,Charkhi Dadri,765,2016_c
+Haryana,Faridabad,088,2011_c
+Haryana,Fatehabad,078,2011_c
+Haryana,Gurugram,086,2011_c
+Haryana,Hisar,080,2011_c
+Haryana,Jhajjar,083,2011_c
+Haryana,Jind,077,2011_c
+Haryana,Kaithal,073,2011_c
+Haryana,Karnal,074,2011_c
+Haryana,Kurukshetra,072,2011_c
+Haryana,Mahendragarh,084,2011_c
+Haryana,Nuh,087,2011_c
+Haryana,Palwal,089,2011_c
+Haryana,Panchkula,069,2011_c
+Haryana,Panipat,075,2011_c
+Haryana,Rewari,085,2011_c
+Haryana,Rohtak,082,2011_c
+Haryana,Sirsa,079,2011_c
+Haryana,Sonipat,076,2011_c
+Haryana,Yamunanagar,071,2011_c
+Himachal Pradesh,Bilaspur,030,2011_c
+Himachal Pradesh,Chamba,023,2011_c
+Himachal Pradesh,Hamirpur,028,2011_c
+Himachal Pradesh,Kangra,024,2011_c
+Himachal Pradesh,Kinnaur,034,2011_c
+Himachal Pradesh,Kullu,026,2011_c
+Himachal Pradesh,Lahaul and Spiti,025,2011_c
+Himachal Pradesh,Mandi,027,2011_c
+Himachal Pradesh,Shimla,033,2011_c
+Himachal Pradesh,Sirmaur,032,2011_c
+Himachal Pradesh,Solan,031,2011_c
+Himachal Pradesh,Una,029,2011_c
+Jammu and Kashmir,Anantnag,014,2011_c
+Jammu and Kashmir,Bandipora,009,2011_c
+Jammu and Kashmir,Baramulla,008,2011_c
+Jammu and Kashmir,Budgam,002,2011_c
+Jammu and Kashmir,Doda,016,2011_c
+Jammu and Kashmir,Ganderbal,011,2011_c
+Jammu and Kashmir,Jammu,021,2011_c
+Jammu and Kashmir,Kathua,007,2011_c
+Jammu and Kashmir,Kishtwar,018,2011_c
+Jammu and Kashmir,Kulgam,015,2011_c
+Jammu and Kashmir,Kupwara,001,2011_c
+Jammu and Kashmir,Mirpur,991,2011_c
+Jammu and Kashmir,Muzaffarabad,992,2011_c
+Jammu and Kashmir,Pulwama,012,2011_c
+Jammu and Kashmir,Punch,005,2011_c
+Jammu and Kashmir,Rajouri,006,2011_c
+Jammu and Kashmir,Ramban,017,2011_c
+Jammu and Kashmir,Reasi,020,2011_c
+Jammu and Kashmir,Samba,022,2011_c
+Jammu and Kashmir,Shopiyan,013,2011_c
+Jammu and Kashmir,Srinagar,010,2011_c
+Jammu and Kashmir,Udhampur,019,2011_c
+Jharkhand,Bokaro,355,2011_c
+Jharkhand,Chatra,347,2011_c
+Jharkhand,Deoghar,350,2011_c
+Jharkhand,Dhanbad,354,2011_c
+Jharkhand,Dumka,362,2011_c
+Jharkhand,East Singhbhum,357,2011_c
+Jharkhand,Garhwa,346,2011_c
+Jharkhand,Giridih,349,2011_c
+Jharkhand,Godda,351,2011_c
+Jharkhand,Gumla,366,2011_c
+Jharkhand,Hazaribagh,360,2011_c
+Jharkhand,Jamtara,363,2011_c
+Jharkhand,Khunti,365,2011_c
+Jharkhand,Koderma,348,2011_c
+Jharkhand,Latehar,359,2011_c
+Jharkhand,Lohardaga,356,2011_c
+Jharkhand,Pakur,353,2011_c
+Jharkhand,Palamu,358,2011_c
+Jharkhand,Ramgarh,361,2011_c
+Jharkhand,Ranchi,364,2011_c
+Jharkhand,Sahibganj,352,2011_c
+Jharkhand,Saraikela-Kharsawan,369,2011_c
+Jharkhand,Simdega,367,2011_c
+Jharkhand,West Singhbhum,368,2011_c
+Karnataka,Bagalkote,556,2011_c
+Karnataka,Ballari,565,2011_c
+Karnataka,Belagavi,555,2011_c
+Karnataka,Bengaluru Rural,583,2011_c
+Karnataka,Bengaluru Urban,572,2011_c
+Karnataka,Bidar,558,2011_c
+Karnataka,Chamarajanagara,578,2011_c
+Karnataka,Chikkaballapura,582,2011_c
+Karnataka,Chikkamagaluru,570,2011_c
+Karnataka,Chitradurga,566,2011_c
+Karnataka,Dakshina Kannada,575,2011_c
+Karnataka,Davanagere,567,2011_c
+Karnataka,Dharwad,562,2011_c
+Karnataka,Gadag,561,2011_c
+Karnataka,Hassan,574,2011_c
+Karnataka,Haveri,564,2011_c
+Karnataka,Kalaburagi,579,2011_c
+Karnataka,Kodagu,576,2011_c
+Karnataka,Kolar,581,2011_c
+Karnataka,Koppal,560,2011_c
+Karnataka,Mandya,573,2011_c
+Karnataka,Mysuru,577,2011_c
+Karnataka,Raichur,559,2011_c
+Karnataka,Ramanagara,584,2011_c
+Karnataka,Shivamogga,568,2011_c
+Karnataka,Tumakuru,571,2011_c
+Karnataka,Udupi,569,2011_c
+Karnataka,Uttara Kannada,563,2011_c
+Karnataka,Vijayapura,557,2011_c
+Karnataka,Yadgir,580,2011_c
+Kerala,Alappuzha,598,2011_c
+Kerala,Ernakulam,595,2011_c
+Kerala,Idukki,596,2011_c
+Kerala,Kannur,589,2011_c
+Kerala,Kasaragod,588,2011_c
+Kerala,Kollam,600,2011_c
+Kerala,Kottayam,597,2011_c
+Kerala,Kozhikode,591,2011_c
+Kerala,Malappuram,592,2011_c
+Kerala,Palakkad,593,2011_c
+Kerala,Pathanamthitta,599,2011_c
+Kerala,Thiruvananthapuram,601,2011_c
+Kerala,Thrissur,594,2011_c
+Kerala,Wayanad,590,2011_c
+Ladakh,Kargil,004,2011_c
+Ladakh,Leh,003,2011_c
+Lakshadweep,Lakshadweep,587,2011_c
+Madhya Pradesh,Agar Malwa,724,update2014
+Madhya Pradesh,Alirajpur,465,2011_c
+Madhya Pradesh,Anuppur,461,2011_c
+Madhya Pradesh,Ashoknagar,459,2011_c
+Madhya Pradesh,Balaghat,457,2011_c
+Madhya Pradesh,Barwani,441,2011_c
+Madhya Pradesh,Betul,447,2011_c
+Madhya Pradesh,Bhind,420,2011_c
+Madhya Pradesh,Bhopal,444,2011_c
+Madhya Pradesh,Burhanpur,467,2011_c
+Madhya Pradesh,Chhatarpur,425,2011_c
+Madhya Pradesh,Chhindwara,455,2011_c
+Madhya Pradesh,Damoh,428,2011_c
+Madhya Pradesh,Datia,422,2011_c
+Madhya Pradesh,Dewas,437,2011_c
+Madhya Pradesh,Dhar,438,2011_c
+Madhya Pradesh,Dindori,453,2011_c
+Madhya Pradesh,Guna,458,2011_c
+Madhya Pradesh,Gwalior,421,2011_c
+Madhya Pradesh,Harda,448,2011_c
+Madhya Pradesh,Hoshangabad,449,2011_c
+Madhya Pradesh,Indore,439,2011_c
+Madhya Pradesh,Jabalpur,451,2011_c
+Madhya Pradesh,Jhabua,464,2011_c
+Madhya Pradesh,Katni,450,2011_c
+Madhya Pradesh,Khandwa,466,2011_c
+Madhya Pradesh,Khargone,440,2011_c
+Madhya Pradesh,Mandla,454,2011_c
+Madhya Pradesh,Mandsaur,433,2011_c
+Madhya Pradesh,Morena,419,2011_c
+Madhya Pradesh,Narsinghpur,452,2011_c
+Madhya Pradesh,Neemuch,432,2011_c
+Madhya Pradesh,Niwari,782,2018
+Madhya Pradesh,Panna,426,2011_c
+Madhya Pradesh,Raisen,446,2011_c
+Madhya Pradesh,Rajgarh,442,2011_c
+Madhya Pradesh,Ratlam,434,2011_c
+Madhya Pradesh,Rewa,430,2011_c
+Madhya Pradesh,Sagar,427,2011_c
+Madhya Pradesh,Satna,429,2011_c
+Madhya Pradesh,Sehore,445,2011_c
+Madhya Pradesh,Seoni,456,2011_c
+Madhya Pradesh,Shahdol,460,2011_c
+Madhya Pradesh,Shajapur,436,2011_c
+Madhya Pradesh,Sheopur,418,2011_c
+Madhya Pradesh,Shivpuri,423,2011_c
+Madhya Pradesh,Sidhi,462,2011_c
+Madhya Pradesh,Singrauli,463,2011_c
+Madhya Pradesh,Tikamgarh,424,2011_c
+Madhya Pradesh,Ujjain,435,2011_c
+Madhya Pradesh,Umaria,431,2011_c
+Madhya Pradesh,Vidisha,443,2011_c
+Maharashtra,Ahmednagar,522,2011_c
+Maharashtra,Akola,501,2011_c
+Maharashtra,Amravati,503,2011_c
+Maharashtra,Aurangabad,515,2011_c
+Maharashtra,Beed,523,2011_c
+Maharashtra,Bhandara,506,2011_c
+Maharashtra,Buldhana,500,2011_c
+Maharashtra,Chandrapur,509,2011_c
+Maharashtra,Dhule,498,2011_c
+Maharashtra,Gadchiroli,508,2011_c
+Maharashtra,Gondia,507,2011_c
+Maharashtra,Hingoli,512,2011_c
+Maharashtra,Jalgaon,499,2011_c
+Maharashtra,Jalna,514,2011_c
+Maharashtra,Kolhapur,530,2011_c
+Maharashtra,Latur,524,2011_c
+Maharashtra,Mumbai,519,2011_c
+Maharashtra,Nagpur,505,2011_c
+Maharashtra,Nanded,511,2011_c
+Maharashtra,Nandurbar,497,2011_c
+Maharashtra,Nashik,516,2011_c
+Maharashtra,Osmanabad,525,2011_c
+Maharashtra,Palghar,732,update2014
+Maharashtra,Parbhani,513,2011_c
+Maharashtra,Pune,521,2011_c
+Maharashtra,Raigad,520,2011_c
+Maharashtra,Ratnagiri,528,2011_c
+Maharashtra,Sangli,531,2011_c
+Maharashtra,Satara,527,2011_c
+Maharashtra,Sindhudurg,529,2011_c
+Maharashtra,Solapur,526,2011_c
+Maharashtra,Thane,517,2011_c
+Maharashtra,Wardha,504,2011_c
+Maharashtra,Washim,502,2011_c
+Maharashtra,Yavatmal,510,2011_c
+Manipur,Bishnupur,275,2011_c
+Manipur,Chandel,280,2011_c
+Manipur,Churachandpur,274,2011_c
+Manipur,Imphal East,278,2011_c
+Manipur,Imphal West,277,2011_c
+Manipur,Jiribam,766,2016_c
+Manipur,Kakching,768,2016_c
+Manipur,Kamjong,770,2016_c
+Manipur,Kangpokpi,767,2016_c
+Manipur,Noney,771,2016_c
+Manipur,Pherzawl,772,2016_c
+Manipur,Senapati,272,2011_c
+Manipur,Tamenglong,273,2011_c
+Manipur,Tengnoupal,769,2016_c
+Manipur,Thoubal,276,2011_c
+Manipur,Ukhrul,279,2011_c
+Meghalaya,East Garo Hills,294,2011_c
+Meghalaya,East Jaintia Hills,714,update2014
+Meghalaya,East Khasi Hills,298,2011_c
+Meghalaya,North Garo Hills,712,update2014
+Meghalaya,Ribhoi,297,2011_c
+Meghalaya,South Garo Hills,295,2011_c
+Meghalaya,South West Garo Hills,711,update2014
+Meghalaya,South West Khasi Hills,713,update2014
+Meghalaya,West Garo Hills,293,2011_c
+Meghalaya,West Jaintia Hills,299,2011_c
+Meghalaya,West Khasi Hills,296,2011_c
+Mizoram,Aizawl,261,2011_c
+Mizoram,Champhai,262,2011_c
+Mizoram,Hnahthial,994,2019
+Mizoram,Khawzawl,996,2019
+Mizoram,Kolasib,263,2011_c
+Mizoram,Lawngtlai,264,2011_c
+Mizoram,Lunglei,265,2011_c
+Mizoram,Mamit,266,2011_c
+Mizoram,Saiha,267,2011_c
+Mizoram,Serchhip,268,2011_c
+Nagaland,Dimapur,265,2011_c
+Nagaland,Kiphire,269,2011_c
+Nagaland,Kohima,270,2011_c
+Nagaland,Longleng,268,2011_c
+Nagaland,Mokokchung,262,2011_c
+Nagaland,Mon,261,2011_c
+Nagaland,Peren,271,2011_c
+Nagaland,Phek,266,2011_c
+Nagaland,Tuensang,267,2011_c
+Nagaland,Wokha,264,2011_c
+Nagaland,Zunheboto,263,2011_c
+Odisha,Angul,384,2011_c
+Odisha,Balangir,393,2011_c
+Odisha,Balasore,377,2011_c
+Odisha,Bargarh,370,2011_c
+Odisha,Bhadrak,378,2011_c
+Odisha,Boudh,391,2011_c
+Odisha,Cuttack,381,2011_c
+Odisha,Deogarh,373,2011_c
+Odisha,Dhenkanal,383,2011_c
+Odisha,Gajapati,389,2011_c
+Odisha,Ganjam,388,2011_c
+Odisha,Jagatsinghpur,380,2011_c
+Odisha,Jajpur,382,2011_c
+Odisha,Jharsuguda,371,2011_c
+Odisha,Kalahandi,395,2011_c
+Odisha,Kandhamal,390,2011_c
+Odisha,Kendrapara,379,2011_c
+Odisha,Kendujhar,375,2011_c
+Odisha,Khordha,386,2011_c
+Odisha,Koraput,398,2011_c
+Odisha,Malkangiri,399,2011_c
+Odisha,Mayurbhanj,376,2011_c
+Odisha,Nabarangapur,397,2011_c
+Odisha,Nayagarh,385,2011_c
+Odisha,Nuapada,394,2011_c
+Odisha,Puri,387,2011_c
+Odisha,Rayagada,396,2011_c
+Odisha,Sambalpur,372,2011_c
+Odisha,Subarnapur,392,2011_c
+Odisha,Sundargarh,374,2011_c
+Puducherry,Karaikal,637,2011_c
+Puducherry,Mahe,636,2011_c
+Puducherry,Puducherry,635,2011_c
+Puducherry,Yanam,634,2011_c
+Punjab,Amritsar,049,2011_c
+Punjab,Barnala,054,2011_c
+Punjab,Bathinda,046,2011_c
+Punjab,Faridkot,045,2011_c
+Punjab,Fatehgarh Sahib,040,2011_c
+Punjab,Fazilka,701,update2014
+Punjab,Ferozepur,043,2011_c
+Punjab,Gurdaspur,035,2011_c
+Punjab,Hoshiarpur,038,2011_c
+Punjab,Jalandhar,037,2011_c
+Punjab,Kapurthala,036,2011_c
+Punjab,Ludhiana,041,2011_c
+Punjab,Mansa,047,2011_c
+Punjab,Moga,042,2011_c
+Punjab,Pathankot,773,2011_c
+Punjab,Patiala,048,2011_c
+Punjab,Rupnagar,051,2011_c
+Punjab,S.A.S. Nagar,052,2011_c
+Punjab,Sangrur,053,2011_c
+Punjab,Shahid Bhagat Singh Nagar,039,2011_c
+Punjab,Sri Muktsar Sahib,044,2011_c
+Punjab,Tarn Taran,050,2011_c
+Rajasthan,Ajmer,119,2011_c
+Rajasthan,Alwar,104,2011_c
+Rajasthan,Banswara,125,2011_c
+Rajasthan,Baran,128,2011_c
+Rajasthan,Barmer,115,2011_c
+Rajasthan,Bharatpur,105,2011_c
+Rajasthan,Bhilwara,122,2011_c
+Rajasthan,Bikaner,101,2011_c
+Rajasthan,Bundi,121,2011_c
+Rajasthan,Chittorgarh,126,2011_c
+Rajasthan,Churu,102,2011_c
+Rajasthan,Dausa,109,2011_c
+Rajasthan,Dholpur,106,2011_c
+Rajasthan,Dungarpur,124,2011_c
+Rajasthan,Ganganagar,099,2011_c
+Rajasthan,Hanumangarh,100,2011_c
+Rajasthan,Jaipur,110,2011_c
+Rajasthan,Jaisalmer,114,2011_c
+Rajasthan,Jalore,116,2011_c
+Rajasthan,Jhalawar,129,2011_c
+Rajasthan,Jhunjhunu,103,2011_c
+Rajasthan,Jodhpur,113,2011_c
+Rajasthan,Karauli,107,2011_c
+Rajasthan,Kota,127,2011_c
+Rajasthan,Nagaur,112,2011_c
+Rajasthan,Pali,118,2011_c
+Rajasthan,Pratapgarh,131,2011_c
+Rajasthan,Rajsamand,123,2011_c
+Rajasthan,Sawai Madhopur,108,2011_c
+Rajasthan,Sikar,111,2011_c
+Rajasthan,Sirohi,117,2011_c
+Rajasthan,Tonk,120,2011_c
+Rajasthan,Udaipur,130,2011_c
+Sikkim,East Sikkim,244,2011_c
+Sikkim,North Sikkim,241,2011_c
+Sikkim,South Sikkim,243,2011_c
+Sikkim,West Sikkim,242,2011_c
+Tamil Nadu,Ariyalur,616,2011_c
+Tamil Nadu,Chengalpattu,0,2019
+Tamil Nadu,Chennai,603,2018
+Tamil Nadu,Coimbatore,632,2011_c
+Tamil Nadu,Cuddalore,617,2011_c
+Tamil Nadu,Dharmapuri,630,2011_c
+Tamil Nadu,Dindigul,612,2011_c
+Tamil Nadu,Erode,610,2011_c
+Tamil Nadu,Kallakurichi,729,2019
+Tamil Nadu,Kancheepuram,604,2019
+Tamil Nadu,Kanyakumari,629,2011_c
+Tamil Nadu,Karur,613,2011_c
+Tamil Nadu,Krishnagiri,631,2011_c
+Tamil Nadu,Madurai,623,2011_c
+Tamil Nadu,Nagapattinam,618,2011_c
+Tamil Nadu,Namakkal,609,2011_c
+Tamil Nadu,Nilgiris,611,2011_c
+Tamil Nadu,Perambalur,615,2011_c
+Tamil Nadu,Pudukkottai,621,2011_c
+Tamil Nadu,Ramanathapuram,626,2011_c
+Tamil Nadu,Ranipet,0,2019
+Tamil Nadu,Salem,608,2011_c
+Tamil Nadu,Sivaganga,622,2011_c
+Tamil Nadu,Tenkasi,0,2019
+Tamil Nadu,Thanjavur,620,2011_c
+Tamil Nadu,Theni,624,2011_c
+Tamil Nadu,Thiruvallur,602,2011_c
+Tamil Nadu,Thiruvarur,619,2011_c
+Tamil Nadu,Thoothukkudi,627,2011_c
+Tamil Nadu,Tiruchirappalli,614,2011_c
+Tamil Nadu,Tirunelveli,628,2019
+Tamil Nadu,Tirupathur,0,2019
+Tamil Nadu,Tiruppur,633,2011_c
+Tamil Nadu,Tiruvannamalai,606,2011_c
+Tamil Nadu,Vellore,605,2019
+Tamil Nadu,Viluppuram,607,2019
+Tamil Nadu,Virudhunagar,625,2011_c
+Telangana,Adilabad,532,2016_c
+Telangana,Bhadradri Kothagudem,753,2016_c
+Telangana,Hyderabad,536,2016_c
+Telangana,Jagtial,737,2016_c
+Telangana,Jangaon,752,2016_c
+Telangana,Jayashankar Bhupalapally,750,2016_c
+Telangana,Jogulamba Gadwal,744,2016_c
+Telangana,Kamareddy,736,2016_c
+Telangana,Karimnagar,534,2016_c
+Telangana,Khammam,541,2016_c
+Telangana,Komaram Bheem,733,2016_c
+Telangana,Mahabubabad,751,2016_c
+Telangana,Mahabubnagar,538,2016_c
+Telangana,Mancherial,735,2016_c
+Telangana,Medak,535,2016_c
+Telangana,Medchal Malkajgiri,742,2016_c
+Telangana,Mulugu,780,2019
+Telangana,Nagarkurnool,746,2016_c
+Telangana,Nalgonda,539,2016_c
+Telangana,Narayanpet,781,2019
+Telangana,Nirmal,734,2016_c
+Telangana,Nizamabad,533,2016_c
+Telangana,Peddapalli,738,2016_c
+Telangana,Rajanna Sircilla,739,2016_c
+Telangana,Ranga Reddy,537,2016_c
+Telangana,Sangareddy,740,2016_c
+Telangana,Siddipet,741,2016_c
+Telangana,Suryapet,748,2016_c
+Telangana,Vikarabad,743,2016_c
+Telangana,Wanaparthy,745,2016_c
+Telangana,Warangal Rural,749,2016_c
+Telangana,Warangal Urban,540,2016_c
+Telangana,Yadadri Bhuvanagiri,747,2016_c
+Tripura,Dhalai,291,2011_c
+Tripura,Gomati,709,update2014
+Tripura,Khowai,708,update2014
+Tripura,North Tripura,292,2011_c
+Tripura,Sipahijala,707,update2014
+Tripura,South Tripura,290,2011_c
+Tripura,Unokoti,710,update2014
+Tripura,West Tripura,289,2011_c
+Uttar Pradesh,Agra,146,2011_c
+Uttar Pradesh,Aligarh,143,2011_c
+Uttar Pradesh,Ambedkar Nagar,178,2011_c
+Uttar Pradesh,Amethi,706,update2014
+Uttar Pradesh,Amroha,137,2011_c
+Uttar Pradesh,Auraiya,162,2011_c
+Uttar Pradesh,Ayodhya,177,2011_c
+Uttar Pradesh,Azamgarh,191,2011_c
+Uttar Pradesh,Baghpat,139,2011_c
+Uttar Pradesh,Bahraich,180,2011_c
+Uttar Pradesh,Ballia,193,2011_c
+Uttar Pradesh,Balrampur,182,2011_c
+Uttar Pradesh,Banda,170,2011_c
+Uttar Pradesh,Barabanki,176,2011_c
+Uttar Pradesh,Bareilly,150,2011_c
+Uttar Pradesh,Basti,185,2011_c
+Uttar Pradesh,Bhadohi,198,2011_c
+Uttar Pradesh,Bijnor,134,2011_c
+Uttar Pradesh,Budaun,149,2011_c
+Uttar Pradesh,Bulandshahr,142,2011_c
+Uttar Pradesh,Chandauli,196,2011_c
+Uttar Pradesh,Chitrakoot,171,2011_c
+Uttar Pradesh,Deoria,190,2011_c
+Uttar Pradesh,Etah,201,2011_c
+Uttar Pradesh,Etawah,161,2011_c
+Uttar Pradesh,Farrukhabad,159,2011_c
+Uttar Pradesh,Fatehpur,172,2011_c
+Uttar Pradesh,Firozabad,147,2011_c
+Uttar Pradesh,Gautam Buddha Nagar,141,2011_c
+Uttar Pradesh,Ghaziabad,140,2011_c
+Uttar Pradesh,Ghazipur,195,2011_c
+Uttar Pradesh,Gonda,183,2011_c
+Uttar Pradesh,Gorakhpur,188,2011_c
+Uttar Pradesh,Hamirpur,168,2011_c
+Uttar Pradesh,Hapur,705,update2014
+Uttar Pradesh,Hardoi,155,2011_c
+Uttar Pradesh,Hathras,144,2011_c
+Uttar Pradesh,Jalaun,165,2011_c
+Uttar Pradesh,Jaunpur,194,2011_c
+Uttar Pradesh,Jhansi,166,2011_c
+Uttar Pradesh,Kannauj,160,2011_c
+Uttar Pradesh,Kanpur Dehat,163,2011_c
+Uttar Pradesh,Kanpur Nagar,164,2011_c
+Uttar Pradesh,Kasganj,202,2011_c
+Uttar Pradesh,Kaushambi,174,2011_c
+Uttar Pradesh,Kushinagar,189,2011_c
+Uttar Pradesh,Lakhimpur Kheri,153,2011_c
+Uttar Pradesh,Lalitpur,167,2011_c
+Uttar Pradesh,Lucknow,157,2011_c
+Uttar Pradesh,Maharajganj,187,2011_c
+Uttar Pradesh,Mahoba,169,2011_c
+Uttar Pradesh,Mainpuri,148,2011_c
+Uttar Pradesh,Mathura,145,2011_c
+Uttar Pradesh,Mau,192,2011_c
+Uttar Pradesh,Meerut,138,2011_c
+Uttar Pradesh,Mirzapur,199,2011_c
+Uttar Pradesh,Moradabad,135,2011_c
+Uttar Pradesh,Muzaffarnagar,133,2011_c
+Uttar Pradesh,Pilibhit,151,2011_c
+Uttar Pradesh,Pratapgarh,173,2011_c
+Uttar Pradesh,Prayagraj,175,2011_c
+Uttar Pradesh,Rae Bareli,158,2011_c
+Uttar Pradesh,Rampur,136,2011_c
+Uttar Pradesh,Saharanpur,132,2011_c
+Uttar Pradesh,Sambhal,754,2011_c
+Uttar Pradesh,Sant Kabir Nagar,186,2011_c
+Uttar Pradesh,Shahjahanpur,152,2011_c
+Uttar Pradesh,Shamli,704,update2014
+Uttar Pradesh,Shrawasti,181,2011_c
+Uttar Pradesh,Siddharthnagar,184,2011_c
+Uttar Pradesh,Sitapur,154,2011_c
+Uttar Pradesh,Sonbhadra,200,2011_c
+Uttar Pradesh,Sultanpur,179,2011_c
+Uttar Pradesh,Unnao,156,2011_c
+Uttar Pradesh,Varanasi,197,2011_c
+Uttarakhand,Almora,064,2011_c
+Uttarakhand,Bageshwar,063,2011_c
+Uttarakhand,Chamoli,057,2011_c
+Uttarakhand,Champawat,065,2011_c
+Uttarakhand,Dehradun,060,2011_c
+Uttarakhand,Haridwar,068,2011_c
+Uttarakhand,Nainital,066,2011_c
+Uttarakhand,Pauri Garhwal,061,2011_c
+Uttarakhand,Pithoragarh,062,2011_c
+Uttarakhand,Rudraprayag,058,2011_c
+Uttarakhand,Tehri Garhwal,059,2011_c
+Uttarakhand,Udham Singh Nagar,067,2011_c
+Uttarakhand,Uttarkashi,056,2011_c
+West Bengal,Alipurduar,774,2014_c
+West Bengal,Bankura,339,2011_c
+West Bengal,Birbhum,334,2011_c
+West Bengal,Cooch Behar,329,2011_c
+West Bengal,Dakshin Dinajpur,331,2011_c
+West Bengal,Darjeeling,327,2011_c
+West Bengal,Hooghly,338,2011_c
+West Bengal,Howrah,341,2011_c
+West Bengal,Jalpaiguri,328,2011_c
+West Bengal,Jhargram,776,2017_c
+West Bengal,Kalimpong,775,2017_c
+West Bengal,Kolkata,342,2011_c
+West Bengal,Malda,332,2011_c
+West Bengal,Murshidabad,333,2011_c
+West Bengal,Nadia,336,2011_c
+West Bengal,North 24 Parganas,337,2011_c
+West Bengal,Paschim Bardhaman,777,2017_c
+West Bengal,Paschim Medinipur,344,2011_c
+West Bengal,Purba Bardhaman,335,2011_c
+West Bengal,Purba Medinipur,345,2011_c
+West Bengal,Purulia,340,2011_c
+West Bengal,South 24 Parganas,343,2011_c
+West Bengal,Uttar Dinajpur,330,2011_c

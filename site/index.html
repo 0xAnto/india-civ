@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>India Civ — a data-driven civilization atlas of India</title>
+  <link rel="icon" href="img/flag.svg" type="image/svg+xml">
+  <meta name="description" content="India drawn as a 4X strategy map: hex terrain, cities with yields, lenses, wonders and a history timeline, all from public data with sources.">
+  <meta name="theme-color" content="#121a24">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='31' fill='%23120d06'/%3E%3Ccircle cx='32' cy='32' r='29' fill='%23c9a45c'/%3E%3Ccircle cx='32' cy='32' r='24' fill='%23123a6b'/%3E%3Ccircle cx='32' cy='32' r='9' fill='none' stroke='%23f8f0d8' stroke-width='3'/%3E%3Cpath stroke='%23f8f0d8' stroke-width='2' d='M32 14v36M14 32h36M19 19l26 26M45 19 19 45'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header id="topbar">
+    <button class="brand" id="brand" title="Reset the view"><img class="brand-flag" src="img/flag.svg" alt="" width="33" height="22"><span class="brand-text">India Civ</span></button>
+    <div id="yields" class="yields" aria-label="National yields"></div>
+    <div class="spacer"></div>
+    <div class="mode-switch" role="tablist" aria-label="Map mode">
+      <button role="tab" data-mode="present" aria-selected="true">Present</button>
+      <button role="tab" data-mode="history" aria-selected="false">History</button>
+    </div>
+    <div class="search" role="search">
+      <input id="search-input" type="search" placeholder="Search cities, districts, states" autocomplete="off" spellcheck="false" aria-label="Search (/)">
+      <kbd aria-hidden="true">/</kbd>
+    </div>
+    <div class="tb-buttons">
+      <button id="btn-strengths" class="btn" title="Hidden strengths: places that beat their conditions (S)">Strengths</button>
+      <button id="btn-advisors" class="btn" title="Advisors: data-backed observations (A)">Advisors</button>
+      <button id="btn-explorer" class="btn" title="Explorer: compare districts, states and cities (E)">Explorer</button>
+      <button id="btn-almanac" class="btn" title="Almanac: methodology and sources (?)">Almanac</button>
+    </div>
+  </header>
+
+  <canvas id="map" role="img" aria-label="Hex map of India"></canvas>
+  <div id="tooltip" class="tooltip" hidden></div>
+  <aside id="panel" class="panel side" hidden aria-live="polite"></aside>
+  <div id="search-results" class="panel search-results" hidden role="listbox"></div>
+
+  <div id="legend" class="panel legend" hidden></div>
+  <div id="lens-area">
+    <div id="lens-picker" class="panel lens-picker" hidden role="dialog" aria-label="Choose a lens"></div>
+    <div id="lens-dock" class="panel lens-dock" role="toolbar" aria-label="Map lenses"></div>
+  </div>
+
+  <div id="timeline" class="panel timeline" hidden></div>
+  <div id="zoom-ctl" class="panel zoom-ctl">
+    <button data-z="in" aria-label="Zoom in">+</button><button data-z="out" aria-label="Zoom out">−</button>
+  </div>
+  <div id="scale" class="scale-note"></div>
+
+  <div id="modal" class="modal" hidden>
+    <div class="modal-card panel" role="dialog" aria-modal="true">
+      <button class="close icon-btn" data-close aria-label="Close">✕</button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+  <div id="toast" class="toast" hidden role="status"></div>
+  <div id="loading"><img class="ld-flag" src="img/flag.svg" alt="" width="84" height="56"><div>Surveying the subcontinent…</div></div>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,365 @@
+{
+ "meta": {
+  "id": "district_gdp",
+  "name": "District domestic product, Maharashtra only, 2022-23 (state DES estimates)",
+  "source_org": "Directorate of Economics and Statistics, Government of Maharashtra",
+  "url": "https://mahaces.maharashtra.gov.in/files/report/DDP_2022-23_002.pdf",
+  "landing_url": "https://mahaces.maharashtra.gov.in",
+  "published": "2025 (report 'District Domestic Product of Maharashtra 2022-23'; date not read)",
+  "reference_year": "2022-23",
+  "resolution": "district2020",
+  "license": "Government of Maharashtra publication (no licence text found)",
+  "update_frequency": "annual",
+  "kind": "official",
+  "limitations": "Only Maharashtra. 2022-23 is a First Revised Estimate. The source reports Mumbai city + suburban together (matches the single district 'Mumbai') and Thane together with Palghar: Thane and Palghar are null here. Source names Chhatrapati Sambhaji Nagar and Dharashiv are matched to Aurangabad and Osmanabad.",
+  "method": "pdftotext -layout; Statement 49 (continued): columns GDVA, GDDP, population, per capita; check GDVA + taxes - subsidies = GDDP on each row. No unit conversion.",
+  "accessed": "2026-11-26"
+ },
+ "fields": {
+  "gdva_current": {
+   "name": "Gross district value added, current prices",
+   "unit": "INR crore",
+   "type": "count",
+   "description": "GDVA at basic prices, 2022-23, base 2011-12.",
+   "higher_is": "better"
+  },
+  "gddp_current": {
+   "name": "Gross District Domestic Product, current prices",
+   "unit": "INR crore",
+   "type": "count",
+   "description": "GDDP at market prices (GDVA + taxes - subsidies on products), 2022-23.",
+   "higher_is": "better"
+  },
+  "population_000": {
+   "name": "District population used by the state",
+   "unit": "thousand persons",
+   "type": "count",
+   "description": "Population estimate used for per-capita, as printed.",
+   "higher_is": "neutral"
+  },
+  "per_capita_gddp": {
+   "name": "Per-capita GDDP, current prices",
+   "unit": "INR per person",
+   "type": "rate",
+   "description": "As printed in the report (column 'Per capita District Domestic Product').",
+   "higher_is": "better"
+  }
+ },
+ "rows": [
+  {
+   "key": "Maharashtra|Ahmednagar",
+   "name": "Ahmednagar",
+   "state": "MH",
+   "gdva_current": 103169,
+   "gddp_current": 117317,
+   "population_000": 4928,
+   "per_capita_gddp": 238058
+  },
+  {
+   "key": "Maharashtra|Akola",
+   "name": "Akola",
+   "state": "MH",
+   "gdva_current": 36600,
+   "gddp_current": 41619,
+   "population_000": 2019,
+   "per_capita_gddp": 206140
+  },
+  {
+   "key": "Maharashtra|Amravati",
+   "name": "Amravati",
+   "state": "MH",
+   "gdva_current": 51271,
+   "gddp_current": 58302,
+   "population_000": 3199,
+   "per_capita_gddp": 182235
+  },
+  {
+   "key": "Maharashtra|Aurangabad",
+   "name": "Aurangabad",
+   "state": "MH",
+   "gdva_current": 86888,
+   "gddp_current": 98804,
+   "population_000": 4142,
+   "per_capita_gddp": 238563
+  },
+  {
+   "key": "Maharashtra|Beed",
+   "name": "Beed",
+   "state": "MH",
+   "gdva_current": 44754,
+   "gddp_current": 50892,
+   "population_000": 2803,
+   "per_capita_gddp": 181539
+  },
+  {
+   "key": "Maharashtra|Bhandara",
+   "name": "Bhandara",
+   "state": "MH",
+   "gdva_current": 22169,
+   "gddp_current": 25209,
+   "population_000": 1301,
+   "per_capita_gddp": 193767
+  },
+  {
+   "key": "Maharashtra|Buldhana",
+   "name": "Buldhana",
+   "state": "MH",
+   "gdva_current": 35611,
+   "gddp_current": 40494,
+   "population_000": 2810,
+   "per_capita_gddp": 144126
+  },
+  {
+   "key": "Maharashtra|Chandrapur",
+   "name": "Chandrapur",
+   "state": "MH",
+   "gdva_current": 50202,
+   "gddp_current": 57087,
+   "population_000": 2439,
+   "per_capita_gddp": 234043
+  },
+  {
+   "key": "Maharashtra|Dhule",
+   "name": "Dhule",
+   "state": "MH",
+   "gdva_current": 40331,
+   "gddp_current": 45862,
+   "population_000": 2248,
+   "per_capita_gddp": 204045
+  },
+  {
+   "key": "Maharashtra|Gadchiroli",
+   "name": "Gadchiroli",
+   "state": "MH",
+   "gdva_current": 13848,
+   "gddp_current": 15747,
+   "population_000": 1150,
+   "per_capita_gddp": 136958
+  },
+  {
+   "key": "Maharashtra|Gondia",
+   "name": "Gondia",
+   "state": "MH",
+   "gdva_current": 23421,
+   "gddp_current": 26633,
+   "population_000": 1429,
+   "per_capita_gddp": 186397
+  },
+  {
+   "key": "Maharashtra|Hingoli",
+   "name": "Hingoli",
+   "state": "MH",
+   "gdva_current": 17044,
+   "gddp_current": 19381,
+   "population_000": 1269,
+   "per_capita_gddp": 152759
+  },
+  {
+   "key": "Maharashtra|Jalgaon",
+   "name": "Jalgaon",
+   "state": "MH",
+   "gdva_current": 79510,
+   "gddp_current": 90414,
+   "population_000": 4660,
+   "per_capita_gddp": 194038
+  },
+  {
+   "key": "Maharashtra|Jalna",
+   "name": "Jalna",
+   "state": "MH",
+   "gdva_current": 35803,
+   "gddp_current": 40712,
+   "population_000": 2123,
+   "per_capita_gddp": 191795
+  },
+  {
+   "key": "Maharashtra|Kolhapur",
+   "name": "Kolhapur",
+   "state": "MH",
+   "gdva_current": 109042,
+   "gddp_current": 123996,
+   "population_000": 4270,
+   "per_capita_gddp": 290411
+  },
+  {
+   "key": "Maharashtra|Latur",
+   "name": "Latur",
+   "state": "MH",
+   "gdva_current": 46398,
+   "gddp_current": 52761,
+   "population_000": 2681,
+   "per_capita_gddp": 196780
+  },
+  {
+   "key": "Maharashtra|Mumbai",
+   "name": "Mumbai",
+   "state": "MH",
+   "gdva_current": 630236,
+   "gddp_current": 716665,
+   "population_000": 14934,
+   "per_capita_gddp": 479887
+  },
+  {
+   "key": "Maharashtra|Nagpur",
+   "name": "Nagpur",
+   "state": "MH",
+   "gdva_current": 159756,
+   "gddp_current": 181665,
+   "population_000": 5372,
+   "per_capita_gddp": 338153
+  },
+  {
+   "key": "Maharashtra|Nanded",
+   "name": "Nanded",
+   "state": "MH",
+   "gdva_current": 59157,
+   "gddp_current": 67270,
+   "population_000": 3681,
+   "per_capita_gddp": 182768
+  },
+  {
+   "key": "Maharashtra|Nandurbar",
+   "name": "Nandurbar",
+   "state": "MH",
+   "gdva_current": 21513,
+   "gddp_current": 24463,
+   "population_000": 1780,
+   "per_capita_gddp": 137441
+  },
+  {
+   "key": "Maharashtra|Nashik",
+   "name": "Nashik",
+   "state": "MH",
+   "gdva_current": 157787,
+   "gddp_current": 179425,
+   "population_000": 6823,
+   "per_capita_gddp": 262980
+  },
+  {
+   "key": "Maharashtra|Osmanabad",
+   "name": "Osmanabad",
+   "state": "MH",
+   "gdva_current": 31008,
+   "gddp_current": 35261,
+   "population_000": 1791,
+   "per_capita_gddp": 196932
+  },
+  {
+   "key": "Maharashtra|Palghar",
+   "name": "Palghar",
+   "state": "MH",
+   "gdva_current": null,
+   "gddp_current": null,
+   "population_000": null,
+   "per_capita_gddp": null
+  },
+  {
+   "key": "Maharashtra|Parbhani",
+   "name": "Parbhani",
+   "state": "MH",
+   "gdva_current": 33403,
+   "gddp_current": 37983,
+   "population_000": 2021,
+   "per_capita_gddp": 187970
+  },
+  {
+   "key": "Maharashtra|Pune",
+   "name": "Pune",
+   "state": "MH",
+   "gdva_current": 367681,
+   "gddp_current": 418104,
+   "population_000": 10786,
+   "per_capita_gddp": 387637
+  },
+  {
+   "key": "Maharashtra|Raigad",
+   "name": "Raigad",
+   "state": "MH",
+   "gdva_current": 84801,
+   "gddp_current": 96431,
+   "population_000": 2921,
+   "per_capita_gddp": 330111
+  },
+  {
+   "key": "Maharashtra|Ratnagiri",
+   "name": "Ratnagiri",
+   "state": "MH",
+   "gdva_current": 38504,
+   "gddp_current": 43784,
+   "population_000": 1743,
+   "per_capita_gddp": 251180
+  },
+  {
+   "key": "Maharashtra|Sangli",
+   "name": "Sangli",
+   "state": "MH",
+   "gdva_current": 73758,
+   "gddp_current": 83873,
+   "population_000": 3083,
+   "per_capita_gddp": 272022
+  },
+  {
+   "key": "Maharashtra|Satara",
+   "name": "Satara",
+   "state": "MH",
+   "gdva_current": 71402,
+   "gddp_current": 81194,
+   "population_000": 3253,
+   "per_capita_gddp": 249561
+  },
+  {
+   "key": "Maharashtra|Sindhudurg",
+   "name": "Sindhudurg",
+   "state": "MH",
+   "gdva_current": 23082,
+   "gddp_current": 26247,
+   "population_000": 912,
+   "per_capita_gddp": 287659
+  },
+  {
+   "key": "Maharashtra|Solapur",
+   "name": "Solapur",
+   "state": "MH",
+   "gdva_current": 107181,
+   "gddp_current": 121880,
+   "population_000": 4760,
+   "per_capita_gddp": 256024
+  },
+  {
+   "key": "Maharashtra|Thane",
+   "name": "Thane",
+   "state": "MH",
+   "gdva_current": null,
+   "gddp_current": null,
+   "population_000": null,
+   "per_capita_gddp": null
+  },
+  {
+   "key": "Maharashtra|Wardha",
+   "name": "Wardha",
+   "state": "MH",
+   "gdva_current": 29256,
+   "gddp_current": 33268,
+   "population_000": 1434,
+   "per_capita_gddp": 231929
+  },
+  {
+   "key": "Maharashtra|Washim",
+   "name": "Washim",
+   "state": "MH",
+   "gdva_current": 15477,
+   "gddp_current": 17600,
+   "population_000": 1294,
+   "per_capita_gddp": 135971
+  },
+  {
+   "key": "Maharashtra|Yavatmal",
+   "name": "Yavatmal",
+   "state": "MH",
+   "gdva_current": 41265,
+   "gddp_current": 46924,
+   "population_000": 3013,
+   "per_capita_gddp": 155727
+  }
+ ]
+}

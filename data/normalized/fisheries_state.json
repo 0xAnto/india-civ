@@ -1,0 +1,590 @@
+{
+ "meta": {
+  "name": "State-wise fish production, inland and marine",
+  "source_org": "Department of Fisheries, MoFAH&D (printed in DA&FW Agricultural Statistics at a Glance 2024-25, table 2.57)",
+  "url": "https://nccd.gov.in/uploads/Agricultural_Statisitcs_at_a_Glance_2024_25_11da3cd37d.pdf",
+  "landing_url": "https://dof.gov.in/",
+  "published": "2025",
+  "reference_year": "2023-24",
+  "resolution": "state",
+  "license": "Government Open Data License - India (GODL)",
+  "update_frequency": "annual",
+  "kind": "official",
+  "limitations": "2023-24 values are provisional. The Handbook on Fisheries Statistics (dof.gov.in) was not reachable, so the table in Agricultural Statistics at a Glance is used. The source rounds to 0.01 lakh tonnes, so small values show 0.00.",
+  "method": "pdftotext -layout, row parsing, no unit change. 1 lakh tonnes = 100,000 tonnes.",
+  "id": "fisheries_state",
+  "accessed": "2026-11-26"
+ },
+ "fields": {
+  "inland_lakh_t": {
+   "name": "Inland fish production 2023-24",
+   "unit": "lakh tonnes",
+   "type": "count",
+   "description": "Inland capture and culture fisheries.",
+   "higher_is": "better"
+  },
+  "marine_lakh_t": {
+   "name": "Marine fish production 2023-24",
+   "unit": "lakh tonnes",
+   "type": "count",
+   "description": "Marine capture. Landlocked states have 0.",
+   "higher_is": "better"
+  },
+  "total_lakh_t": {
+   "name": "Total fish production 2023-24",
+   "unit": "lakh tonnes",
+   "type": "count",
+   "description": "Inland plus marine, as printed in the source.",
+   "higher_is": "better"
+  },
+  "total_series": {
+   "name": "Total fish production, 2019-20 to 2023-24",
+   "unit": "lakh tonnes",
+   "type": "value",
+   "description": "Series keyed by agricultural year.",
+   "higher_is": "better"
+  }
+ },
+ "rows": [
+  {
+   "key": "AN",
+   "name": "Andaman and Nicobar Islands",
+   "state": "AN",
+   "inland_lakh_t": 0.0,
+   "marine_lakh_t": 0.49,
+   "total_lakh_t": 0.5,
+   "total_series": {
+    "2019-20": 0.4,
+    "2020-21": 0.43,
+    "2021-22": 0.44,
+    "2022-23": 0.47,
+    "2023-24": 0.5
+   }
+  },
+  {
+   "key": "AP",
+   "name": "Andhra Pradesh",
+   "state": "AP",
+   "inland_lakh_t": 45.58,
+   "marine_lakh_t": 6.0,
+   "total_lakh_t": 51.58,
+   "total_series": {
+    "2019-20": 41.74,
+    "2020-21": 46.24,
+    "2021-22": 48.13,
+    "2022-23": 51.06,
+    "2023-24": 51.58
+   }
+  },
+  {
+   "key": "AR",
+   "name": "Arunachal Pradesh",
+   "state": "AR",
+   "inland_lakh_t": 0.09,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 0.09,
+   "total_series": {
+    "2019-20": 0.05,
+    "2020-21": 0.05,
+    "2021-22": 0.05,
+    "2022-23": 0.09,
+    "2023-24": 0.09
+   }
+  },
+  {
+   "key": "AS",
+   "name": "Assam",
+   "state": "AS",
+   "inland_lakh_t": 4.99,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 4.99,
+   "total_series": {
+    "2019-20": 3.73,
+    "2020-21": 3.93,
+    "2021-22": 4.17,
+    "2022-23": 4.43,
+    "2023-24": 4.99
+   }
+  },
+  {
+   "key": "BR",
+   "name": "Bihar",
+   "state": "BR",
+   "inland_lakh_t": 8.73,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 8.73,
+   "total_series": {
+    "2019-20": 6.41,
+    "2020-21": 6.83,
+    "2021-22": 7.62,
+    "2022-23": 8.46,
+    "2023-24": 8.73
+   }
+  },
+  {
+   "key": "CH",
+   "name": "Chandigarh",
+   "state": "CH",
+   "inland_lakh_t": 0.0,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 0.0,
+   "total_series": {
+    "2019-20": 0.01,
+    "2020-21": 0.0,
+    "2021-22": 0.0,
+    "2022-23": 0.0,
+    "2023-24": 0.0
+   }
+  },
+  {
+   "key": "CT",
+   "name": "Chhattisgarh",
+   "state": "CT",
+   "inland_lakh_t": 7.81,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 7.81,
+   "total_series": {
+    "2019-20": 5.72,
+    "2020-21": 5.77,
+    "2021-22": 5.91,
+    "2022-23": 6.52,
+    "2023-24": 7.81
+   }
+  },
+  {
+   "key": "DH",
+   "name": "Dadra and Nagar Haveli and Daman and Diu",
+   "state": "DH",
+   "inland_lakh_t": 0.0,
+   "marine_lakh_t": 0.3,
+   "total_lakh_t": 0.3,
+   "total_series": {
+    "2019-20": 0.32,
+    "2020-21": 0.3,
+    "2021-22": 0.3,
+    "2022-23": 0.29,
+    "2023-24": 0.3
+   }
+  },
+  {
+   "key": "DL",
+   "name": "Delhi",
+   "state": "DL",
+   "inland_lakh_t": 0.01,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 0.01,
+   "total_series": {
+    "2019-20": 0.01,
+    "2020-21": 0.01,
+    "2021-22": 0.01,
+    "2022-23": 0.0,
+    "2023-24": 0.01
+   }
+  },
+  {
+   "key": "GA",
+   "name": "Goa",
+   "state": "GA",
+   "inland_lakh_t": 0.09,
+   "marine_lakh_t": 1.27,
+   "total_lakh_t": 1.36,
+   "total_series": {
+    "2019-20": 1.05,
+    "2020-21": 1.11,
+    "2021-22": 1.16,
+    "2022-23": 1.4,
+    "2023-24": 1.36
+   }
+  },
+  {
+   "key": "GJ",
+   "name": "Gujarat",
+   "state": "GJ",
+   "inland_lakh_t": 2.03,
+   "marine_lakh_t": 7.05,
+   "total_lakh_t": 9.08,
+   "total_series": {
+    "2019-20": 8.59,
+    "2020-21": 8.4,
+    "2021-22": 8.74,
+    "2022-23": 8.97,
+    "2023-24": 9.08
+   }
+  },
+  {
+   "key": "HR",
+   "name": "Haryana",
+   "state": "HR",
+   "inland_lakh_t": 2.15,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 2.15,
+   "total_series": {
+    "2019-20": 1.91,
+    "2020-21": 2.03,
+    "2021-22": 2.08,
+    "2022-23": 2.12,
+    "2023-24": 2.15
+   }
+  },
+  {
+   "key": "HP",
+   "name": "Himachal Pradesh",
+   "state": "HP",
+   "inland_lakh_t": 0.18,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 0.18,
+   "total_series": {
+    "2019-20": 0.14,
+    "2020-21": 0.15,
+    "2021-22": 0.16,
+    "2022-23": 0.17,
+    "2023-24": 0.18
+   }
+  },
+  {
+   "key": "JK",
+   "name": "Jammu and Kashmir",
+   "state": "JK",
+   "inland_lakh_t": 0.28,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 0.28,
+   "total_series": {
+    "2019-20": 0.21,
+    "2020-21": 0.21,
+    "2021-22": 0.25,
+    "2022-23": 0.27,
+    "2023-24": 0.28
+   }
+  },
+  {
+   "key": "JH",
+   "name": "Jharkhand",
+   "state": "JH",
+   "inland_lakh_t": 3.11,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 3.11,
+   "total_series": {
+    "2019-20": 2.23,
+    "2020-21": 2.38,
+    "2021-22": 2.57,
+    "2022-23": 2.8,
+    "2023-24": 3.11
+   }
+  },
+  {
+   "key": "KA",
+   "name": "Karnataka",
+   "state": "KA",
+   "inland_lakh_t": 4.02,
+   "marine_lakh_t": 7.28,
+   "total_lakh_t": 11.31,
+   "total_series": {
+    "2019-20": 6.32,
+    "2020-21": 6.08,
+    "2021-22": 10.74,
+    "2022-23": 12.25,
+    "2023-24": 11.31
+   }
+  },
+  {
+   "key": "KL",
+   "name": "Kerala",
+   "state": "KL",
+   "inland_lakh_t": 2.51,
+   "marine_lakh_t": 5.81,
+   "total_lakh_t": 8.32,
+   "total_series": {
+    "2019-20": 6.8,
+    "2020-21": 6.16,
+    "2021-22": 8.26,
+    "2022-23": 9.21,
+    "2023-24": 8.32
+   }
+  },
+  {
+   "key": "LA",
+   "name": "Ladakh",
+   "state": "LA",
+   "inland_lakh_t": 0.0,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 0.0,
+   "total_series": {
+    "2019-20": 0.0,
+    "2020-21": 0.0,
+    "2021-22": 0.01,
+    "2022-23": 0.0,
+    "2023-24": 0.0
+   }
+  },
+  {
+   "key": "LD",
+   "name": "Lakshadweep",
+   "state": "LD",
+   "inland_lakh_t": 0.0,
+   "marine_lakh_t": 0.13,
+   "total_lakh_t": 0.13,
+   "total_series": {
+    "2019-20": 0.2,
+    "2020-21": 0.15,
+    "2021-22": 0.12,
+    "2022-23": 0.11,
+    "2023-24": 0.13
+   }
+  },
+  {
+   "key": "MP",
+   "name": "Madhya Pradesh",
+   "state": "MP",
+   "inland_lakh_t": 3.82,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 3.82,
+   "total_series": {
+    "2019-20": 2.0,
+    "2020-21": 2.49,
+    "2021-22": 2.93,
+    "2022-23": 3.42,
+    "2023-24": 3.82
+   }
+  },
+  {
+   "key": "MH",
+   "name": "Maharashtra",
+   "state": "MH",
+   "inland_lakh_t": 2.67,
+   "marine_lakh_t": 4.35,
+   "total_lakh_t": 7.02,
+   "total_series": {
+    "2019-20": 5.61,
+    "2020-21": 5.23,
+    "2021-22": 5.89,
+    "2022-23": 5.9,
+    "2023-24": 7.02
+   }
+  },
+  {
+   "key": "MN",
+   "name": "Manipur",
+   "state": "MN",
+   "inland_lakh_t": 0.45,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 0.45,
+   "total_series": {
+    "2019-20": 0.32,
+    "2020-21": 0.33,
+    "2021-22": 0.33,
+    "2022-23": 0.34,
+    "2023-24": 0.45
+   }
+  },
+  {
+   "key": "ML",
+   "name": "Meghalaya",
+   "state": "ML",
+   "inland_lakh_t": 0.2,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 0.2,
+   "total_series": {
+    "2019-20": 0.14,
+    "2020-21": 0.16,
+    "2021-22": 0.18,
+    "2022-23": 0.19,
+    "2023-24": 0.2
+   }
+  },
+  {
+   "key": "MZ",
+   "name": "Mizoram",
+   "state": "MZ",
+   "inland_lakh_t": 0.05,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 0.05,
+   "total_series": {
+    "2019-20": 0.07,
+    "2020-21": 0.05,
+    "2021-22": 0.05,
+    "2022-23": 0.05,
+    "2023-24": 0.05
+   }
+  },
+  {
+   "key": "NL",
+   "name": "Nagaland",
+   "state": "NL",
+   "inland_lakh_t": 0.1,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 0.1,
+   "total_series": {
+    "2019-20": 0.09,
+    "2020-21": 0.09,
+    "2021-22": 0.09,
+    "2022-23": 0.09,
+    "2023-24": 0.1
+   }
+  },
+  {
+   "key": "OR",
+   "name": "Odisha",
+   "state": "OR",
+   "inland_lakh_t": 8.97,
+   "marine_lakh_t": 2.27,
+   "total_lakh_t": 11.24,
+   "total_series": {
+    "2019-20": 8.18,
+    "2020-21": 8.73,
+    "2021-22": 9.9,
+    "2022-23": 10.52,
+    "2023-24": 11.24
+   }
+  },
+  {
+   "key": "PY",
+   "name": "Puducherry",
+   "state": "PY",
+   "inland_lakh_t": 0.04,
+   "marine_lakh_t": 0.43,
+   "total_lakh_t": 0.47,
+   "total_series": {
+    "2019-20": 0.51,
+    "2020-21": 0.39,
+    "2021-22": 0.46,
+    "2022-23": 0.47,
+    "2023-24": 0.47
+   }
+  },
+  {
+   "key": "PB",
+   "name": "Punjab",
+   "state": "PB",
+   "inland_lakh_t": 1.84,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 1.84,
+   "total_series": {
+    "2019-20": 1.51,
+    "2020-21": 1.65,
+    "2021-22": 1.9,
+    "2022-23": 1.85,
+    "2023-24": 1.84
+   }
+  },
+  {
+   "key": "RJ",
+   "name": "Rajasthan",
+   "state": "RJ",
+   "inland_lakh_t": 0.91,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 0.91,
+   "total_series": {
+    "2019-20": 1.16,
+    "2020-21": 0.6,
+    "2021-22": 0.66,
+    "2022-23": 0.79,
+    "2023-24": 0.91
+   }
+  },
+  {
+   "key": "SK",
+   "name": "Sikkim",
+   "state": "SK",
+   "inland_lakh_t": 0.01,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 0.01,
+   "total_series": {
+    "2019-20": 0.0,
+    "2020-21": 0.0,
+    "2021-22": 0.0,
+    "2022-23": 0.01,
+    "2023-24": 0.01
+   }
+  },
+  {
+   "key": "TN",
+   "name": "Tamil Nadu",
+   "state": "TN",
+   "inland_lakh_t": 2.47,
+   "marine_lakh_t": 6.37,
+   "total_lakh_t": 8.84,
+   "total_series": {
+    "2019-20": 7.57,
+    "2020-21": 7.23,
+    "2021-22": 8.07,
+    "2022-23": 8.29,
+    "2023-24": 8.84
+   }
+  },
+  {
+   "key": "TG",
+   "name": "Telangana",
+   "state": "TG",
+   "inland_lakh_t": 4.56,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 4.56,
+   "total_series": {
+    "2019-20": 3.0,
+    "2020-21": 3.49,
+    "2021-22": 3.9,
+    "2022-23": 4.38,
+    "2023-24": 4.56
+   }
+  },
+  {
+   "key": "TR",
+   "name": "Tripura",
+   "state": "TR",
+   "inland_lakh_t": 0.86,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 0.86,
+   "total_series": {
+    "2019-20": 0.78,
+    "2020-21": 0.82,
+    "2021-22": 0.82,
+    "2022-23": 0.83,
+    "2023-24": 0.86
+   }
+  },
+  {
+   "key": "UP",
+   "name": "Uttar Pradesh",
+   "state": "UP",
+   "inland_lakh_t": 11.6,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 11.6,
+   "total_series": {
+    "2019-20": 6.99,
+    "2020-21": 7.46,
+    "2021-22": 8.09,
+    "2022-23": 9.15,
+    "2023-24": 11.6
+   }
+  },
+  {
+   "key": "UT",
+   "name": "Uttarakhand",
+   "state": "UT",
+   "inland_lakh_t": 0.09,
+   "marine_lakh_t": 0.0,
+   "total_lakh_t": 0.09,
+   "total_series": {
+    "2019-20": 0.05,
+    "2020-21": 0.06,
+    "2021-22": 0.06,
+    "2022-23": 0.07,
+    "2023-24": 0.09
+   }
+  },
+  {
+   "key": "WB",
+   "name": "West Bengal",
+   "state": "WB",
+   "inland_lakh_t": 18.84,
+   "marine_lakh_t": 3.18,
+   "total_lakh_t": 22.02,
+   "total_series": {
+    "2019-20": 17.82,
+    "2020-21": 18.24,
+    "2021-22": 18.43,
+    "2022-23": 20.45,
+    "2023-24": 22.02
+   }
+  }
+ ]
+}

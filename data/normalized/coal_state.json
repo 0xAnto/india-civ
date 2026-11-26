@@ -1,0 +1,288 @@
+{
+ "meta": {
+  "name": "Raw coal and lignite production by state",
+  "source_org": "Ministry of Coal, Coal Controller's Organisation (Coal Directory of India 2024-25, provisional)",
+  "url": "https://coal.gov.in/sites/default/files/2024-03/28-11-2025a-stc.pdf",
+  "landing_url": "https://coal.gov.in/",
+  "published": "2025-11-28",
+  "reference_year": "2024-25 (provisional)",
+  "resolution": "state",
+  "license": "Government Open Data License - India (GODL) / Government of India publication",
+  "update_frequency": "annual",
+  "kind": "official",
+  "limitations": "Null means the source gives no production for the state in 2024-25 (not necessarily zero reserves). Coalfield polygons and coal mine points were not available as a download without login.",
+  "method": "pdftotext -layout; 2024-25 row of tables 3.9 (raw coal) and 3.10 (lignite). Units kept in million tonnes.",
+  "id": "coal_state",
+  "accessed": "2026-11-26"
+ },
+ "fields": {
+  "raw_coal_mt": {
+   "name": "Raw coal production 2024-25",
+   "unit": "million tonnes",
+   "type": "count",
+   "description": "Table 3.9.",
+   "higher_is": "neutral"
+  },
+  "lignite_mt": {
+   "name": "Lignite production 2024-25",
+   "unit": "million tonnes",
+   "type": "count",
+   "description": "Table 3.10.",
+   "higher_is": "neutral"
+  }
+ },
+ "rows": [
+  {
+   "key": "AN",
+   "name": "Andaman and Nicobar Islands",
+   "state": "AN",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "AP",
+   "name": "Andhra Pradesh",
+   "state": "AP",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "AR",
+   "name": "Arunachal Pradesh",
+   "state": "AR",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "AS",
+   "name": "Assam",
+   "state": "AS",
+   "raw_coal_mt": 0.2,
+   "lignite_mt": null
+  },
+  {
+   "key": "BR",
+   "name": "Bihar",
+   "state": "BR",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "CH",
+   "name": "Chandigarh",
+   "state": "CH",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "CT",
+   "name": "Chhattisgarh",
+   "state": "CT",
+   "raw_coal_mt": 204.953,
+   "lignite_mt": null
+  },
+  {
+   "key": "DH",
+   "name": "Dadra and Nagar Haveli and Daman and Diu",
+   "state": "DH",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "DL",
+   "name": "Delhi",
+   "state": "DL",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "GA",
+   "name": "Goa",
+   "state": "GA",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "GJ",
+   "name": "Gujarat",
+   "state": "GJ",
+   "raw_coal_mt": null,
+   "lignite_mt": 13.299
+  },
+  {
+   "key": "HR",
+   "name": "Haryana",
+   "state": "HR",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "HP",
+   "name": "Himachal Pradesh",
+   "state": "HP",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "JK",
+   "name": "Jammu and Kashmir",
+   "state": "JK",
+   "raw_coal_mt": 0.01,
+   "lignite_mt": null
+  },
+  {
+   "key": "JH",
+   "name": "Jharkhand",
+   "state": "JH",
+   "raw_coal_mt": 206.192,
+   "lignite_mt": null
+  },
+  {
+   "key": "KA",
+   "name": "Karnataka",
+   "state": "KA",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "KL",
+   "name": "Kerala",
+   "state": "KL",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "LA",
+   "name": "Ladakh",
+   "state": "LA",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "LD",
+   "name": "Lakshadweep",
+   "state": "LD",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "MP",
+   "name": "Madhya Pradesh",
+   "state": "MP",
+   "raw_coal_mt": 167.571,
+   "lignite_mt": null
+  },
+  {
+   "key": "MH",
+   "name": "Maharashtra",
+   "state": "MH",
+   "raw_coal_mt": 70.781,
+   "lignite_mt": null
+  },
+  {
+   "key": "MN",
+   "name": "Manipur",
+   "state": "MN",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "ML",
+   "name": "Meghalaya",
+   "state": "ML",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "MZ",
+   "name": "Mizoram",
+   "state": "MZ",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "NL",
+   "name": "Nagaland",
+   "state": "NL",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "OR",
+   "name": "Odisha",
+   "state": "OR",
+   "raw_coal_mt": 269.363,
+   "lignite_mt": null
+  },
+  {
+   "key": "PY",
+   "name": "Puducherry",
+   "state": "PY",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "PB",
+   "name": "Punjab",
+   "state": "PB",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "RJ",
+   "name": "Rajasthan",
+   "state": "RJ",
+   "raw_coal_mt": null,
+   "lignite_mt": 9.875
+  },
+  {
+   "key": "SK",
+   "name": "Sikkim",
+   "state": "SK",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "TN",
+   "name": "Tamil Nadu",
+   "state": "TN",
+   "raw_coal_mt": null,
+   "lignite_mt": 21.96
+  },
+  {
+   "key": "TG",
+   "name": "Telangana",
+   "state": "TG",
+   "raw_coal_mt": 71.506,
+   "lignite_mt": null
+  },
+  {
+   "key": "TR",
+   "name": "Tripura",
+   "state": "TR",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "UP",
+   "name": "Uttar Pradesh",
+   "state": "UP",
+   "raw_coal_mt": 20.856,
+   "lignite_mt": null
+  },
+  {
+   "key": "UT",
+   "name": "Uttarakhand",
+   "state": "UT",
+   "raw_coal_mt": null,
+   "lignite_mt": null
+  },
+  {
+   "key": "WB",
+   "name": "West Bengal",
+   "state": "WB",
+   "raw_coal_mt": 36.089,
+   "lignite_mt": null
+  }
+ ]
+}
